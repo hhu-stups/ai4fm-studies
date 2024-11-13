@@ -92,13 +92,13 @@ Level,Group Name,keep as
 3,Mul - Logistic Models,ai-mul-lr
 3,Mul - Random Forest,ai-mul-randomforest
 3,Mul - Linear Regression,ai-mul-lr
-3,Mul - Ridge Regression,ai-mul-ridge
+3,Mul - Ridge Regression,ai-other
 3,Mul - Support Vector Machines,ai-mul-svm
 3,Mul - Naive Bayes,ai-mul-naive
 3,Mul - KNN,ai-mul-knn
-3,Mul - Nearest Centroid,ai-mul-centroid
-3,Mul - Passive Agressive,ai-mul-passiveaggresive
-3,Mul - Stochastic Gradient,ai-mul-sgd
+3,Mul - Nearest Centroid,ai-other
+3,Mul - Passive Agressive,ai-other
+3,Mul - Stochastic Gradient,ai-other
 3,Mul - Neural Nets,ai-mul-neuralnetworks
 4,Mul - CNN,
 4,Mul - Graph NN,
@@ -116,13 +116,13 @@ Level,Group Name,keep as
 3,Mul - Evolutionary/Genetic,ai-mul-genetic
 3,Mul - Clustering,ai-mul-clustering
 3,Mul - LLM,ai-mul-llm
-3,Mul - bagging,ai-mul-bagging
-3,Mul - adaboost,ai-mul-adaboost
+3,Mul - bagging,ai-other
+3,Mul - adaboost,ai-other
 3,Mul - Logistic Regression,ai-mul-lr
-3,Mul - Gaussian Process,ai-mul-gaussian
+3,Mul - Gaussian Process,ai-other
 3,Mul - Data Mining,ai-mul-datamining
-3,Mul - MCTS,ai-mul-mcts
-3,Mul - SMAC,ai-mul-smac
+3,Mul - MCTS,ai-other
+3,Mul - SMAC,ai-other
 2,Atomaton Learning,automatonlearning
 3,Markov Chain,
 2,Decision Trees,trees
@@ -148,7 +148,7 @@ Level,Group Name,keep as
 2,SVM,svm
 2,Random Forrest,randomforest
 2,K Nearest Neighbours,knn
-2,Bayesian interference,baysianinferance
+2,Bayesian interference,baysianinference
 2,Clustering,clustering
 2,Custom,ai-custom
 2,Data Mining,datamining

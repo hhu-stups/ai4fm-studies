@@ -15,4 +15,30 @@ python3.10 -m venv env
 pip install -r requirements.txt
 ```
 
-tbd.
+If you want to update the underlying search results, run the preprocessing
+first. The preprocessed version is checked in for easier use by
+external researchers. The respective `search_results.bib` is available
+in the dev-only repository of the article.
+
+```sh
+python preprocess_jabref_bibfile.py search_results.bib database.bib
+```
+
+To update the overview files,
+edit `make_overviews.py` to your liking and run it.
+
+```sh
+python make_overviews.py
+```
+
+## Cite this repository
+
+If you are finding use in our aggregated database of primary studies
+and use it in your own research,
+please consider using the following reference.
+
+* tbd.
+
+```bibtex
+@tbd{}
+```
