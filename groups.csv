@@ -1,0 +1,180 @@
+Level,Group Name,keep as
+1,FM,
+2,SAT,sat
+3,SAT Formalism,
+4,3Sat,sat-3sat
+4,kSat,sat-ksat
+4,QBF,sat-qbf
+4,Basic SAT,sat-basic
+3,Technique,
+4,Solver Selection | Portofolio | Algorithm,sat-portfolio
+4,MaxSat,sat-maxsat
+4,Feature Extraction | Instance Selection | Variable Selection,sat-varselection
+4,Meta Analysis | Solver Performance Prediction,sat-meta
+4,Branching Heuristics,sat-branching
+4,Generation,sat-generation
+4,SAT Parameter Selection,sat-parameter
+4,Mult. SAT Tech,sat-multi
+5,Mult Sat Solving,sat-multi-solving
+5,Mult Sat Model Counting,sat-multi-modelcounting
+5,Mul - Max SAT,sat-multi-maxsat
+5,Mul - SAT Algorithm Selection,sat-multi-algorithmselection
+4,Predict Solvebility,sat-prediction
+4,Dependency analyisis,sat-dependency
+4,Solving | Finding SAT,sat-solving
+2,SMT,smt
+3,Quantifier Instantiation,smt-quantifier
+3,Solver Selection || Portofolio || Scheduling,smt-solverselection
+3,Quality Assesment,smt-quality
+2,Theorem Proving,tp
+3,Formalism,
+4,First Order Logic,tp-fol
+4,Higher Order Logic,tp-hol
+3,Technique Type,
+4,Premise Selection | Axiom Selection | Clause Selection,tp-axiomselection
+4,Proof Synthesis,tp-proofsynthesis
+4,Symbolic,tp-symbolic
+4,Proof Search,tp-proofsearch
+4,Heuristic Selection,tp-heuristicselection
+4,Formula Synthesis,tp-formulasynthesis
+4,Multiple TP Techniques,tp-multiple
+5,Mul Synthesis,tp-mul-synthesis
+5,Position prediction,tp-mul-positionprediction
+5,Mul - Premise Selection | Axiom Selection | Tactic Selection,tp-mul-axiomselection
+5,Proof Rewrite,tp-mul-proofrewrite
+5,Mul - Symbol Guessing,tp-mul-symbolguessing
+5,Mul - Takticts prediction,tp-mul-tacticsprediction
+5,Mul - Proof Search,tp-mul-proofsearch
+4,Proof Mining,tp-proofmining
+4,Portfolio Solving,tp-portfolio
+4,Tactic Prediction,tp-tacticsprediction
+4,Formula Classification,tp-formulaclassification
+4,Lemma Name Generation,tp-lemmaname
+3,Grade of Automatization,
+4,Interactive (Interactive Human to Theroem Prover),tp-interactive
+4,Automatic (Machine only),tp-automatic
+4,Automatic and Interactive,tp-mixed
+2,Synthesis,synthesis
+3,Invariant Learning,synthesis-invariant
+3,Loop Invariant Learning,synthesis-loopinvariant
+3,Model repair,synthesis-repair
+3,Models/Specification,synthesis-specification
+4,From Natural Text,
+4,To Natural Text,
+4,From model to abstrct model,
+3,Annotations,synthesis-annotations
+2,Model Checking,modelchecking
+3,MC Algorithm Selection,
+2,Other,other
+3,Algorithm Selection,
+3,Termination Anlysis,
+3,General verification,
+3,Program Analysis,
+3,LTL satisfiability,
+1,AI,
+2,Reinforcement Learning,reinforcement-learning
+3,Deep,
+4,Deep RL over Tree NN,
+4,Deep RL over Graph NN,
+3,Q Learning,
+3,Guided MCTS,
+3,Multi Armed Bandit,
+2,Neural Networks,neuralnetworks
+3,Recurrent,
+4,LSTM,
+3,Transformer,
+3,Neural Monte Carlo Tree Search,
+3,Graph NN,
+4,Graph Convolutional Network,
+3,Deep Neural Networks,
+4,Random Vector Functional Link net,
+2,Multiple,ai-multiple
+3,Mul - Logistic Models,ai-mul-lr
+3,Mul - Random Forest,ai-mul-randomforest
+3,Mul - Linear Regression,ai-mul-lr
+3,Mul - Ridge Regression,ai-mul-ridge
+3,Mul - Support Vector Machines,ai-mul-svm
+3,Mul - Naive Bayes,ai-mul-naive
+3,Mul - KNN,ai-mul-knn
+3,Mul - Nearest Centroid,ai-mul-centroid
+3,Mul - Passive Agressive,ai-mul-passiveaggresive
+3,Mul - Stochastic Gradient,ai-mul-sgd
+3,Mul - Neural Nets,ai-mul-neuralnetworks
+4,Mul - CNN,
+4,Mul - Graph NN,
+4,Mul - RNN,
+4,Mul - Deep Learning,
+4,Mul - Tree NN,
+4,Mul - Transformer,
+4,Mul - multi-layer perceptron,
+3,Mul - Trees,ai-mul-trees
+4,Mul - Extra Trees,
+4,Mul - Greedy Tree,
+4,Mul - Decision Tree,
+4,Mul - Boosted tree,
+5,Mul - XGBoost,
+3,Mul - Evolutionary/Genetic,ai-mul-genetic
+3,Mul - Clustering,ai-mul-clustering
+3,Mul - LLM,ai-mul-llm
+3,Mul - bagging,ai-mul-bagging
+3,Mul - adaboost,ai-mul-adaboost
+3,Mul - Logistic Regression,ai-mul-lr
+3,Mul - Gaussian Process,ai-mul-gaussian
+3,Mul - Data Mining,ai-mul-datamining
+3,Mul - MCTS,ai-mul-mcts
+3,Mul - SMAC,ai-mul-smac
+2,Atomaton Learning,automatonlearning
+3,Markov Chain,
+2,Decision Trees,trees
+3,Gradient Boost,
+4,XGBoost,
+3,HyperTree,
+2,Genetic/Evolutionary Algorithms,genetic
+3,ANT Colony,
+3,Partical Swarms,
+3,Genetic - Multiple,
+4,Mul - Particle Swarm,
+4,Genetic - Simulated annealing,
+3,Differential Evolution,
+3,Genetic - Custom,
+2,NLP,nlp
+3,LLM,nlp-llm
+3,Bag of words,nlp-bagofwords
+3,Language Corpus,nlp-corpus
+3,Multiple - NLP,nlp-multiple
+4,Semantic Role Labeling,
+4,Named Entity Recognition,
+3,Language Processing,nlp-processing
+2,SVM,svm
+2,Random Forrest,randomforest
+2,K Nearest Neighbours,knn
+2,Bayesian interference,baysianinferance
+2,Clustering,clustering
+2,Custom,ai-custom
+2,Data Mining,datamining
+3,High Utility Itemset Mining,
+3,Sequential Pattern Mining,
+1,DataSet,
+2,DataSet - SAT,dataset-sat
+2,DataSet - Theorem Proving,dataset-tp
+2,Data Set - Model Checking,dataset-modelchecking
+2,Data Set Synthesis,dataset-synthesis
+2,DataSet - SMT,dataset-smt
+1,Contribution,
+2,Tool,contribution-tool
+2,Tool Enhancement/Improvement,contribution-toolimprovement
+2,Approach,contribution-approach
+2,Framework,contribution-framework
+2,Multiple - Contributions,contribution-mul
+3,MulCon - Tool,contribution-mul-tool
+3,MulCon - Tool Improvement,contribution-mul-toolimprovement
+3,MulCon - Method,contribution-mul-method
+3,MulCon - Approach,contribution-mul-approach
+3,MulCon - Framework,contribution-mul-framework
+3,MulCon - Benchmark,contribution-mul-benchmark
+3,MulCon - Training Data/Environment,contribution-mul-data
+2,Case Study,contribution-casestudy
+2,Idea,contribution-idea
+2,Methodology,contribution-methodology
+2,Benchmark,contribution-benchmark
+2,Training Data/Environment,contribution-data
