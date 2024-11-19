@@ -16,7 +16,7 @@ We provide the following files:
 * [`database.bib`](database.bib):
   The full list of found publications, in Bibtex format.
   Processed entries have a `groups` field attached. See also
-  [`groups.csv`](groups.csv).
+  [`groups.csv`](dev/groups.csv).
 * [`overview/ai-techniques_2019-2023.md`](overview/ai-techniques_2019-2023.md):
   List of the processed publications from 2019-2023, grouped by their utilized
   AI technique.
