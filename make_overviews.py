@@ -86,11 +86,15 @@ def _write_section(section_structure: dict, grouped_entries: dict,
             _write_section(sub_structure, grouped_entries,
                            heading_level + 1, out)
         else:
+            entries = []
             for category in subsection:
-                entries = grouped_entries.get(category, [])
-                for entry in entries:
-                    out.write('* ' + entry_to_markdown(entry))
-                    out.write('\n')
+                entries += grouped_entries.get(category, [])
+            # Sort by year (descending) and then by ID (ascending).
+            # Negative year forces descending order for first key.
+            entries.sort(key=lambda e: (-int(e['year' ]), e['ID']))
+            for entry in entries:
+                out.write('* ' + entry_to_markdown(entry))
+                out.write('\n')
             out.write('\n')
 
 
