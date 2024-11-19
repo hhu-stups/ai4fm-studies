@@ -89,7 +89,7 @@ def _clean_up_groups(bibentry):
         group = group.strip()
         new_groups.update(parent_group_map.get(group, set()))
 
-    result['groups'] = ','.join(new_groups)
+    result['groups'] = ','.join(sorted(new_groups))
     return result
 
 
