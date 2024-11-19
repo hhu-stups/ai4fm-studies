@@ -48,7 +48,7 @@ def _make_toc(doc_structure: dict, nesting_depth: int, out: TextIO):
         if not isinstance(section, tuple):
             section = (section,)
 
-        section_name = names.translation[section[0]]
+        section_name = names.translation.get(section[0], section[0])
         toc_link = _github_toc_link(section_name)
 
         out.write(f'{nesting_prefix}* [{section_name}](#{toc_link})\n')
@@ -78,7 +78,7 @@ def _write_section(section_structure: dict, grouped_entries: dict,
             subsection = (subsection,)
 
         # The first entry in the tuple is the name of the section.
-        section_name = names.translation[subsection[0]]
+        section_name = names.translation.get(subsection[0], subsection[0])
 
         out.write(f'{heading_prefix} {section_name}\n\n')
 
@@ -91,7 +91,7 @@ def _write_section(section_structure: dict, grouped_entries: dict,
                 entries += grouped_entries.get(category, [])
             # Sort by year (descending) and then by ID (ascending).
             # Negative year forces descending order for first key.
-            entries.sort(key=lambda e: (-int(e['year' ]), e['ID']))
+            entries.sort(key=lambda e: (-int(e['year']), e['ID']))
             for entry in entries:
                 out.write('* ' + entry_to_markdown(entry))
                 out.write('\n')
@@ -109,6 +109,11 @@ if __name__ == '__main__':
         for group in groups:
             group = group.strip()
             group_entries.setdefault(group, []).append(entry)
+    # Sort the entries by year.
+    year_entries = {}
+    for entry in bib.entries:
+        year = entry['year']
+        year_entries.setdefault(year, []).append(entry)
 
     ai_groups = {
         ('trees', 'ai-mul-trees'): {},
@@ -186,3 +191,9 @@ if __name__ == '__main__':
     make_overview(fm_groups, group_entries,
                   'Overview of used FM techniques from 2019-2023',
                   'overview/fm-techniques_2019-2023.md')
+
+    year_overview = {y_str: [] for y in range(2023, 1971, -1)
+                     if (y_str := str(y)) in year_entries}
+    make_overview(year_overview, year_entries,
+                  'Overview of found primary studies by year',
+                  'overview/all_by_year.md')
