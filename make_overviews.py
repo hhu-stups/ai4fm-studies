@@ -197,3 +197,14 @@ if __name__ == '__main__':
     make_overview(year_overview, year_entries,
                   'Overview of found primary studies by year',
                   'overview/all_by_year.md')
+
+    data_sets = {
+        'dataset-sat': [],
+        'dataset-tp': [],
+        'dataset-modelchecking': [],
+        'dataset-synthesis': [],
+        'dataset-smt': [],
+    }
+    make_overview(data_sets, group_entries,
+                  'Overview of found data sets for applied ML onto FM from 2019-2023',
+                  'overview/data-sets_2019-2023.md')

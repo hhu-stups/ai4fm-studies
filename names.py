@@ -1,5 +1,3 @@
-
-
 translation = {
     'trees': 'Decision Trees',
     'ai-mul-trees': 'Decision Trees',
@@ -96,4 +94,11 @@ translation = {
     'synthesis-annotations': 'Annotations',
     'modelchecking': 'Model Checking',
     'other': 'Other',
+
+    'dataset-sat': 'SAT',
+    'dataset-tp': 'Theorem Proving',
+    'dataset-modelchecking': 'Model Checking',
+    'dataset-synthesis': 'Synthesis',
+    'dataset-smt': 'SMT',
+
 }
