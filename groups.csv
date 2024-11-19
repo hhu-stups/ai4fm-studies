@@ -50,7 +50,7 @@ Level,Group Name,keep as
 4,Tactic Prediction,tp-tacticsprediction
 4,Formula Classification,tp-formulaclassification
 4,Lemma Name Generation,tp-lemmaname
-3,Grade of Automatization,
+3,Grade of Automatization,tp-automationgrade
 4,Interactive (Interactive Human to Theroem Prover),tp-interactive
 4,Automatic (Machine only),tp-automatic
 4,Automatic and Interactive,tp-mixed
