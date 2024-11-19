@@ -181,8 +181,8 @@ if __name__ == '__main__':
 
     os.makedirs('overview', exist_ok=True)
     make_overview(ai_groups, group_entries,
-                  'Overview of used AI techniques',
-                  'overview/ai-techniques.md')
+                  'Overview of used AI techniques from 2019-2023',
+                  'overview/ai-techniques_2019-2023.md')
     make_overview(fm_groups, group_entries,
-                  'Overview of used FM techniques',
-                  'overview/fm-techniques.md')
+                  'Overview of used FM techniques from 2019-2023',
+                  'overview/fm-techniques_2019-2023.md')
