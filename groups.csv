@@ -27,7 +27,7 @@ Level,Group Name,keep as
 3,Solver Selection || Portofolio || Scheduling,smt-solverselection
 3,Quality Assesment,smt-quality
 2,Theorem Proving,tp
-3,Formalism,
+3,Formalism,tp-formalism
 4,First Order Logic,tp-fol
 4,Higher Order Logic,tp-hol
 3,Technique Type,

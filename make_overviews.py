@@ -9,18 +9,19 @@ from markdown import entry_to_markdown
 import names
 
 
-def make_overview(document_structure: dict | list, grouped_entries: dict,
+def make_overview(document_structure: dict, grouped_entries: dict,
                   title: str, outfile: str):
     """
     Creates an overview filed formatted as markdown.
     The `document_structure` dictates the structure of the document.
-    It can either be a list of categories, which corresponds to sections
-    on the same level. Or it can be a dictionary, where the keys are
-    the respective categories as sections on the same level, and their
-    values populate the sections.
-    A given category can be a tuple. In this case, all entries correesponding
+    It is a dictionary of categories mapping to its respective subcategory
+    structure.
+    A given category can be a tuple. In this case, all entries corresponding
     to either of the groups will be included in the section. The first entry
     in the tuple is used for naming the section.
+    If the subcategory structure is empty, None, or False,
+    the section will not further divide the categories' entries into
+    subsections.
 
     The `grouped_entries` is a dictionary where the keys are the categories
     mapping onto the entries that belong to the category.
@@ -38,12 +39,12 @@ def make_overview(document_structure: dict | list, grouped_entries: dict,
         _make_toc(document_structure, 0, out)
         out.write('\n')
 
-        _write_sections(document_structure, grouped_entries, 2, out)
+        _write_section(document_structure, grouped_entries, 2, out)
 
 
-def _make_toc(doc_structure: dict | list, nesting_depth: int, out: TextIO):
+def _make_toc(doc_structure: dict, nesting_depth: int, out: TextIO):
     nesting_prefix = '  ' * nesting_depth
-    for section in doc_structure:
+    for section, sub_sections in doc_structure.items():
         if not isinstance(section, tuple):
             section = (section,)
 
@@ -52,8 +53,9 @@ def _make_toc(doc_structure: dict | list, nesting_depth: int, out: TextIO):
 
         out.write(f'{nesting_prefix}* [{section_name}](#{toc_link})\n')
 
-        if isinstance(doc_structure, dict):
-            _make_toc(doc_structure[section], nesting_depth + 1, out)
+        if sub_sections:
+            _make_toc(sub_sections, nesting_depth + 1, out)
+    ...
 
 
 def _github_toc_link(section_name: str) -> str:
@@ -66,27 +68,25 @@ def _github_toc_link(section_name: str) -> str:
     return section_name
 
 
-def _write_sections(section_structure: dict | list, grouped_entries: dict,
-                    heading_level: int, out: TextIO):
+def _write_section(section_structure: dict, grouped_entries: dict,
+                   heading_level: int, out: TextIO):
     heading_prefix = '#' * heading_level
 
-    # Nested dictionaries correspond to nested sections.
-    has_subsections = isinstance(section_structure, dict)
-
-    for section in section_structure:
+    for subsection, sub_structure in section_structure.items():
         # A section can be a tuple or a string; we unify this to all tuples.
-        if not isinstance(section, tuple):
-            section = (section,)
+        if not isinstance(subsection, tuple):
+            subsection = (subsection,)
 
         # The first entry in the tuple is the name of the section.
-        section_name = names.translation[section[0]]
+        section_name = names.translation[subsection[0]]
 
         out.write(f'{heading_prefix} {section_name}\n\n')
 
-        if has_subsections:
-            _write_sections(section_structure[section], heading_level + 1, out)
+        if sub_structure:
+            _write_section(sub_structure, grouped_entries,
+                           heading_level + 1, out)
         else:
-            for category in section:
+            for category in subsection:
                 entries = grouped_entries.get(category, [])
                 for entry in entries:
                     out.write('* ' + entry_to_markdown(entry))
@@ -106,34 +106,74 @@ if __name__ == '__main__':
             group = group.strip()
             group_entries.setdefault(group, []).append(entry)
 
-    ai_groups = [
-        ('trees', 'ai-mul-trees'),
-        ('randomforest', 'ai-mul-randomforest'),
-        ('svm', 'ai-mul-svm'),
-        ('knn', 'ai-mul-knn'),
-        'ai-mul-lr',
-        ('neuralnetworks', 'ai-mul-neuralnetworks'),
-        'reinforcement-learning',
-        ('genetic', 'ai-mul-genetic'),
-        ('nlp', 'ai-mul-llm'),
-        'automatonlearning',
-        'baysianinference',
-        ('clustering', 'ai-mul-clustering'),
-        ('datamining', 'ai-mul-datamining'),
-        'ai-mul-naive',
-        # 'ai-multiple',
-        'ai-custom',
-        'ai-other',
-    ]
+    ai_groups = {
+        ('trees', 'ai-mul-trees'): {},
+        ('randomforest', 'ai-mul-randomforest'): {},
+        ('svm', 'ai-mul-svm'): {},
+        ('knn', 'ai-mul-knn'): {},
+        'ai-mul-lr': {},
+        ('neuralnetworks', 'ai-mul-neuralnetworks'): {},
+        'reinforcement-learning': {},
+        ('genetic', 'ai-mul-genetic'): {},
+        ('nlp', 'ai-mul-llm'): {},
+        'automatonlearning': {},
+        'baysianinference': {},
+        ('clustering', 'ai-mul-clustering'): {},
+        ('datamining', 'ai-mul-datamining'): {},
+        'ai-mul-naive': {},
+        # 'ai-multiple': {},
+        'ai-custom': {},
+        'ai-other': {},
+    }
 
-    fm_groups = [
-        'sat',
-        'smt',
-        'tp',
-        'modelchecking',
-        'synthesis',
-        'other',
-    ]
+    fm_groups = {
+        'sat': {
+            'sat-prediction': [],
+            ('sat-solving', 'sat-multi-solving'): [],
+            ('sat-portfolio', 'sat-multi-algorithmselection'): [],
+            ('sat-maxsat', 'sat-multi-maxsat'): [],
+            'sat-varselection': [],
+            'sat-branching': [],
+            'sat-generation': [],
+            'sat-parameter': [],
+            'sat-multi-modelcounting': [],
+            'sat-dependency': [],
+            'sat-meta': [],
+        },
+        'smt': {
+            'smt-solverselection': [],
+            'smt-quantifier': [],
+            'smt-quality': [],
+        },
+        'tp': {
+            'tp-portfolio': [],
+            ('tp-tacticsprediction', 'tp-mul-tacticsprediction'): [],
+            'tp-formulaclassification': [],
+            ('tp-axiomselection', 'tp-mul-axiomselection'): [],
+            ('tp-proofsearch', 'tp-mul-proofsearch'): [],
+            'tp-proofmining': [],
+            'tp-mul-proofrewrite': [],
+            ('tp-proofsynthesis', 'tp-mul-synthesis'): [],
+            'tp-formulasynthesis': [],
+            'tp-symbolic': [],
+            'tp-mul-symbolguessing': [],
+
+            'tp-heuristicselection': [],
+
+            'tp-mul-positionprediction': [],
+
+            'tp-lemmaname': [],
+        },
+        'modelchecking': [],
+        'synthesis': {
+            'synthesis-invariant': [],
+            'synthesis-loopinvariant': [],
+            'synthesis-repair': [],
+            'synthesis-specification': [],
+            'synthesis-annotations': [],
+        },
+        'other': [],
+    }
 
     os.makedirs('overview', exist_ok=True)
     make_overview(ai_groups, group_entries,
