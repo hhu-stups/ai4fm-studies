@@ -7,6 +7,34 @@
 * [2021](#2021)
 * [2020](#2020)
 * [2019](#2019)
+* [2018](#2018)
+* [2017](#2017)
+* [2016](#2016)
+* [2015](#2015)
+* [2014](#2014)
+* [2013](#2013)
+* [2012](#2012)
+* [2011](#2011)
+* [2010](#2010)
+* [2009](#2009)
+* [2008](#2008)
+* [2007](#2007)
+* [2006](#2006)
+* [2005](#2005)
+* [2004](#2004)
+* [2003](#2003)
+* [2002](#2002)
+* [2001](#2001)
+* [2000](#2000)
+* [1999](#1999)
+* [1998](#1998)
+* [1997](#1997)
+* [1996](#1996)
+* [1995](#1995)
+* [1993](#1993)
+* [1990](#1990)
+* [1989](#1989)
+* [1972](#1972)
 
 ## 2023
 
@@ -213,4 +241,354 @@
 * Zhang, Xiyue and Li, Yi and Hong, Weijiang and Sun, Meng (2019). Using Recurrent Neural Network to Predict Tactics for Proving Component Connector Properties in Coq. In _2019 International Symposium on Theoretical Aspects of Software Engineering (TASE)_, p. 107-112. [[doi](http://dx.doi.org/10.1109/TASE.2019.00-12)][[bibtex](../database.bib#L1908)]
 * Zhu, Weijun and Wu, Huanmei and Deng, Miaolei (2019). LTL Model Checking Based on Binary Classification of Machine Learning. In _IEEE Access_ 7, p. 135703-135719. [[doi](http://dx.doi.org/10.1109/ACCESS.2019.2942762)][[bibtex](../database.bib#L1967)]
 * Zombori, Zsolt and Csiszárik, Adrián and Michalewski, Henryk and Kaliszyk, Cezary and Urban, Josef (2019). Curriculum Learning and Theorem Proving. In _Artificial Intelligence and Theorem Proving (AITP)_.. [[bibtex](../database.bib#L2001)]
+
+## 2018
+
+* Balunovic, Mislav and Bielik, Pavol and Vechev, Martin (2018). Learning to Solve SMT Formulas. In _Advances in Neural Information Processing Systems_ 31. Curran Associates, Inc.. [[bibtex](../database.bib#L2248)]
+* Barriga, A. and Rutle, A. and Heldal, R. (2018). Automatic model repair using reinforcement learning. In _Unknown booktitle_. p. 781-786. [[bibtex](../database.bib#L2258)]
+* Bennaceur, Amel and Meinke, Karl (2018). Machine Learning for Software Analysis: Models, Methods, and Applications. In _Machine Learning for Dynamic Software Analysis: Potentials and Limits: International Dagstuhl Seminar 16172, Dagstuhl Castle, Germany, April 24-27, 2016, Revised Papers_. Springer International Publishing p. 3--49. [[doi](http://dx.doi.org/10.1007/978-3-319-96562-8_1)][[bibtex](../database.bib#L2266)]
+* Błądek, Iwo and Krawiec, Krzysztof and Swan, Jerry (2018). Counterexample-Driven Genetic Programming: Heuristic Program Synthesis from Formal Specifications. In _Evolutionary Computation_ 26(3), p. 441-469. [[doi](http://dx.doi.org/10.1162/evco_a_00228)][[bibtex](../database.bib#L2300)]
+* Bu, Lei and Peled, Doron and Shen, Dachuan and Zhuang, Yuan (2018). Genetic Synthesis of Concurrent Code Using Model Checking and Statistical Model Checking. In _Model Checking Software_, p. 275--291. Springer International Publishing. [[bibtex](../database.bib#L2493)]
+* Buchs, D. and Klikovits, S. and Linard, A. and Mencattini, R. and Racordon, D. (2018). A model checker collection for the model checking contest using docker and machine learning. In _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_ 10877 LNCS, p. 385-395. [[doi](http://dx.doi.org/10.1007/978-3-319-91268-4_21)][[bibtex](../database.bib#L2515)]
+* Cai, Nian and Cen, Guandong and Wu, Jixiu and Li, Feiyang and Wang, Han and Chen, Xindu (2018). SMT Solder Joint Inspection via a Novel Cascaded Convolutional Neural Network. In _IEEE Transactions on Components, Packaging and Manufacturing Technology_ 8(4), p. 670-677. [[doi](http://dx.doi.org/10.1109/TCPMT.2018.2789453)][[bibtex](../database.bib#L2526)]
+* Cai, Cheng-Hao and Sun, Jing and Dobbie, Gillian (2018). B-Repair: Repairing B-Models Using Machine Learning. In _2018 23rd International Conference on Engineering of Complex Computer Systems (ICECCS)_, p. 31-40. [[doi](http://dx.doi.org/10.1109/ICECCS2018.2018.00012)][[bibtex](../database.bib#L2538)]
+* Cassel, Sofia and Howar, Falk and Jonsson, Bengt and Steffen, Bernhard (2018). Extending Automata Learning to Extended Finite State Machines. In _Machine Learning for Dynamic Software Analysis: Potentials and Limits: International Dagstuhl Seminar 16172, Dagstuhl Castle, Germany, April 24-27, 2016, Revised Papers_. Springer International Publishing p. 149--177. [[doi](http://dx.doi.org/10.1007/978-3-319-96562-8_6)][[bibtex](../database.bib#L2558)]
+* Champion, Adrien and Kobayashi, Naoki and Sato, Ryosuke (2018). HoIce: An ICE-Based Non-linear Horn Clause Solver. In _Programming Languages and Systems_, p. 146--156. Springer International Publishing. [[bibtex](../database.bib#L2569)]
+* Czajka, Łukasz and Kaliszyk, Cezary (2018). Hammer for Coq: Automation for dependent type theory. In _Journal of automated reasoning_ 61, p. 423--453. [[bibtex](../database.bib#L2643)]
+* Davody, Ali and Baba, Mihai Sebastian (2018). Using Sequence to Sequence Neural Networks for Solving Similar Mathematical Problems. In _Working Papers and Documents of the IJCAI-ECAI-2018 Workshop on_. [[bibtex](../database.bib#L2665)]
+* Eman M. Elmandouh and Amr G. Wassal (2018). Guiding Formal Verification Orchestration Using Machine Learning Methods. In _ACM Transactions on Design Automation of Electronic Systems_ 23(5), p. 1--33. [[doi](http://dx.doi.org/10.1145/3224206)][[bibtex](../database.bib#L2756)]
+* England, Matthew (2018). Machine Learning for Mathematical Software. In _Mathematical Software -- ICMS 2018_, p. 165--174. Springer International Publishing. [[bibtex](../database.bib#L2768)]
+* Ezudheen, P. and Neider, Daniel and D'Souza, Deepak and Garg, Pranav and Madhusudan, P. (2018). Horn-ICE Learning for Synthesizing Invariants and Contracts. In _Proc. ACM Program. Lang._ 2(OOPSLA). [[doi](http://dx.doi.org/10.1145/3276501)][[bibtex](../database.bib#L2778)]
+* Fu, Huimin and Xu, Yang and Wu, Guanfeng and Jia, Hairui and Zhang, Wuyang and Hu, Rong (2018). An Improved Adaptive Genetic Algorithm for Solving 3-SAT Problems Based on Effective Restart and Greedy Strategy. In _INTERNATIONAL JOURNAL OF COMPUTATIONAL INTELLIGENCE SYSTEMS_ 11(1), p. 402-413. [[doi](http://dx.doi.org/10.2991/ijcis.11.1.30)][[bibtex](../database.bib#L2924)]
+* Gauthier, Thibault and Kaliszyk, Cezary and Urban, Josef (2018). TacticToe: Learning to reason with HOL4 Tactics. In _Journal of Automated Reasoning_. [[bibtex](../database.bib#L3018)]
+* Goertzel, Zarathustra and Jakubův, Jan and Schulz, Stephan and Urban, Josef (2018). ProofWatch: Watchlist Guidance for Large Theories in E. In _Interactive Theorem Proving_, p. 270--288. Springer International Publishing. [[bibtex](../database.bib#L3046)]
+* Goertzel, Zarathustra Amadeus and Jakubuv, Jan and Urban, Josef (2018). ProofWatch Meets ENIGMA: First Experiments.. In _LPAR (Workshop and Short Papers)_, p. 15--22. [[bibtex](../database.bib#L3056)]
+* Hireche, C. and Drias, H. (2018). Density based clustering for satisfiability solving. In _Advances in Intelligent Systems and Computing_ 746, p. 899-908. [[doi](http://dx.doi.org/10.1007/978-3-319-77712-2_85)][[bibtex](../database.bib#L3273)]
+* Jakubův, Jan and Urban, Josef (2018). Enhancing ENIGMA Given Clause Guidance. In _Intelligent Computer Mathematics_, p. 118--124. Springer International Publishing. [[bibtex](../database.bib#L3346)]
+* Jakubův, Jan and Urban, Josef and Fontaine, Pascal and Kaliszyk, Cezary and Schulz, Stephan and Urban, Josef (2018). Hierarchical Invention of Theorem Proving Strategies. In _AI Commun._ 31(3), p. 237–250. [[doi](http://dx.doi.org/10.3233/AIC-180761)][[bibtex](../database.bib#L3356)]
+* Mikoláš Janota (2018). Towards Generalization in QBF Solving via Machine Learning. In _Proceedings of the AAAI Conference on Artificial Intelligence_ 32(1). [[doi](http://dx.doi.org/10.1609/aaai.v32i1.12208)][[bibtex](../database.bib#L3380)]
+* Jiang, Yaqing and Papapanagiotou, Petros and Fleuriot, Jacques (2018). Machine Learning for Inductive Theorem Proving. In _Artificial Intelligence and Symbolic Computation_, p. 87--103. Springer International Publishing. [[bibtex](../database.bib#L3391)]
+* Kaliszyk, Cezary and Urban, Josef and Michalewski, Henryk and Olšák, Miroslav (2018). Reinforcement Learning of Theorem Proving. In _Advances in Neural Information Processing Systems_ 31. Curran Associates, Inc.. [[bibtex](../database.bib#L3536)]
+* Kocsis, Zoltan A and Swan, Jerry (2018). Genetic programming+ proof search= automatic improvement. In _Journal of Automated Reasoning_ 60(2), p. 157--176. [[bibtex](../database.bib#L3678)]
+* Krawiec, Krzysztof and Bladek, Iwo and Swan, Jerry and Drake, John H (2018). Counterexample-Driven Genetic Programming: Stochastic Synthesis of Provably Correct Programs.. In _IJCAI_, p. 5304--5308. [[bibtex](../database.bib#L3722)]
+* Le, T.-D.B. and Bao, L. and Lo, D. (2018). DSM: A specification mining tool using recurrent neural network based language model. In _Unknown proceedings_, ESEC/FSE 2018 - Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, p. 896-899. [[doi](http://dx.doi.org/10.1145/3236024.3264597)][[bibtex](../database.bib#L3874)]
+* Liang, J.H. and Oh, C. and Mathew, M. and Thomas, C. and Li, C. and Ganesh, V. (2018). Machine learning-based restart policy for CDCL SAT solvers. In _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_ 10929 LNCS, p. 94-110. [[doi](http://dx.doi.org/10.1007/978-3-319-94144-8_6)][[bibtex](../database.bib#L3924)]
+* Miranda, Enrico S. and Fabris, Fabio and Nascimento, Chrystian G. M. and Freitas, Alex A. and Oliveira, Alexandre C. M. (2018). Meta-Learning for Recommending Metaheuristics for the MaxSAT Problem. In _2018 7th Brazilian Conference on Intelligent Systems (BRACIS)_, p. 169-174. [[doi](http://dx.doi.org/10.1109/BRACIS.2018.00037)][[bibtex](../database.bib#L4066)]
+* Piotrowski, Bartosz and Urban, Josef (2018). ATPboost: Learning Premise Selection in Binary Setting with ATP Feedback. In _Automated Reasoning_, p. 566--574. Springer International Publishing. [[bibtex](../database.bib#L4283)]
+* Raschip, Madalina and Croitoru, Cornelius and Frasinaru, Cristian (2018). New Evolutionary Approaches for SAT Solving. In _2018 IEEE 30th International Conference on Tools with Artificial Intelligence (ICTAI)_, p. 522-526. [[doi](http://dx.doi.org/10.1109/ICTAI.2018.00086)][[bibtex](../database.bib#L4326)]
+* Taro Sekiyama and Kohei Suenaga (2018). Automated Proof Synthesis for the Minimal Propositional Logic with Deep Neural Networks. In _Programming Languages and Systems_. Springer International Publishing p. 309--328. [[doi](http://dx.doi.org/10.1007/978-3-030-02768-1_17)][[bibtex](../database.bib#L4395)]
+* Si, Xujie and Dai, Hanjun and Raghothaman, Mukund and Naik, Mayur and Song, Le (2018). Learning Loop Invariants for Program Verification. In _Advances in Neural Information Processing Systems_ 31. Curran Associates, Inc.. [[bibtex](../database.bib#L4436)]
+* Ulyantsev, Vladimir and Buzhinsky, Igor and Shalyto, Anatoly (2018). Exact finite-state machine identification from scenarios and temporal properties. In _International Journal on Software Tools for Technology Transfer_ 20(1), p. 35--55. [[bibtex](../database.bib#L4541)]
+* Wang, Y.-J. and Chen, Y.-T. and Jiang, Y.-S.F. and Horng, M.-F. and Shieh, C.-S. and Wang, H.-Y. and Ho, J.-H. and Cheng, Y.-M. (2018). An Artificial Neural Network to Support Package Classification for SMT Components. In _Unknown booktitle_. p. 173-177. [[doi](http://dx.doi.org/10.1109/CCOMS.2018.8463252)][[bibtex](../database.bib#L4642)]
+* Wang, Jingyi and Sun, Jun and Yuan, Qixia and Pang, Jun (2018). Learning probabilistic models for model checking: an evolutionary approach and an empirical study. In _International Journal on Software Tools for Technology Transfer_ 20(6), p. 689--704. [[bibtex](../database.bib#L4651)]
+* Zheng, T. and Liu, Y. (2018). Genetic algorithm for generating counterexample in stochastic model checking. In _Unknown booktitle_. p. 92-96. [[doi](http://dx.doi.org/10.1145/3301326.3301348)][[bibtex](../database.bib#L4785)]
+
+## 2017
+
+* Ansotegui, Carlos and Luisa Bonet, Maria and Giraldez-Cru, Jesus and Levy, Jordi (2017). Structure features for SAT instances classification. In _JOURNAL OF APPLIED LOGIC_ 23(SI), p. 27-39. [[doi](http://dx.doi.org/10.1016/j.jal.2016.11.004)][[bibtex](../database.bib#L2185)]
+* Bhattacharjee, Arunava and Chauhan, Prabal (2017). Solving the SAT problem using genetic algorithm. In _Adv. Sci. Technol. Eng. Syst_ 2(4), p. 115--120. [[bibtex](../database.bib#L2277)]
+* Haitham Bou-Ammar and Mohamad Jaber and Mohamad Nassar (2017). Correctness-by-Learning of Infinite-State Component-Based Systems. In _Formal Aspects of Component Software_. Springer International Publishing p. 162--178. [[doi](http://dx.doi.org/10.1007/978-3-319-68034-7_10)][[bibtex](../database.bib#L2366)]
+* Bouhmala, N. and Øvergård, K.I. (2017). Combining genetic algorithm with variable neighbourhood search for MAX-SAT. In _Unknown booktitle_.. [[bibtex](../database.bib#L2456)]
+* Bouhmala, N. and Oseland, M. and Brådland, Ø. (2017). WalkSAT Based-Learning Automata for MAX-SAT. In _Recent Advances in Soft Computing_, p. 98--110. Springer International Publishing. [[bibtex](../database.bib#L2463)]
+* H. Pham, Long and Tran Thi, Ly Ly and Sun, Jun (2017). Assertion Generation Through Active Learning. In _Formal Methods and Software Engineering_, p. 174--191. Springer International Publishing. [[bibtex](../database.bib#L3143)]
+* Sofie Haesaert and Paul M.J. Van den Hof and Alessandro Abate (2017). Data-driven and model-based verification via Bayesian identification and reachability analysis. In _Automatica_ 79, p. 115-126. [[doi](http://dx.doi.org/10.1016/j.automatica.2017.01.037)][[bibtex](../database.bib#L3153)]
+* Andrew Healy and Rosemary Monahan and James F. Power (2017). Predicting SMT Solver Performance for Software Verification. In _Electronic Proceedings in Theoretical Computer Science_ 240, p. 20--37. [[doi](http://dx.doi.org/10.4204/eptcs.240.2)][[bibtex](../database.bib#L3240)]
+* Szu-Yi Huang and Chen, Ying-ping (2017). Proving theorems by using evolutionary search with human involvement. In _2017 IEEE Congress on Evolutionary Computation (CEC)_, p. 1495-1502. [[doi](http://dx.doi.org/10.1109/CEC.2017.7969480)][[bibtex](../database.bib#L3284)]
+* Jakubův, Jan and Urban, Josef (2017). ENIGMA: Efficient Learning-Based Inference Guiding Machine. In _Intelligent Computer Mathematics_, p. 292--302. Springer International Publishing. [[bibtex](../database.bib#L3315)]
+* Jakubův, Jan and Urban, Josef (2017). BliStrTune: Hierarchical Invention of Theorem Proving Strategies. In _Proceedings of the 6th ACM SIGPLAN Conference on Certified Programs and Proofs_, CPP 2017, p. 43–52. Association for Computing Machinery. [[doi](http://dx.doi.org/10.1145/3018610.3018619)][[bibtex](../database.bib#L3325)]
+* Jakubuv, Jan and Suda, Martin and Urban, Josef (2017). Automated Invention of Strategies and Term Orderings for Vampire.. In _GCAI_, p. 121--133. [[bibtex](../database.bib#L3337)]
+* Cezary Kaliszyk and François Chollet and Christian Szegedy (2017). HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving. In _International Conference on Learning Representations_. [[bibtex](../database.bib#L3528)]
+* Katz, G. and Peled, D. (2017). Synthesizing, correcting and improving code, using model checking-based genetic programming. In _International Journal on Software Tools for Technology Transfer_ 19(4), p. 449-464. [[doi](http://dx.doi.org/10.1007/s10009-016-0418-1)][[bibtex](../database.bib#L3612)]
+* Komendantskaya, Ekaterina and Heras, Jónathan (2017). Proof Mining with Dependent Types. In _Intelligent Computer Mathematics_, p. 303--318. Springer International Publishing. [[bibtex](../database.bib#L3700)]
+* Krawiec, Krzysztof and Błądek, Iwo and Swan, Jerry (2017). Counterexample-Driven Genetic Programming. In _Proceedings of the Genetic and Evolutionary Computation Conference_, GECCO '17, p. 953–960. Association for Computing Machinery. [[doi](http://dx.doi.org/10.1145/3071178.3071224)][[bibtex](../database.bib#L3710)]
+* Liang, Jia Hui and V.K., Hari Govind and Poupart, Pascal and Czarnecki, Krzysztof and Ganesh, Vijay (2017). An Empirical Study of Branching Heuristics Through the Lens of Global Learning Rate. In _Theory and Applications of Satisfiability Testing -- SAT 2017_, p. 119--135. Springer International Publishing. [[bibtex](../database.bib#L3914)]
+* Loos, Sarah and Irving, Geoffrey and Szegedy, Christian and Kaliszyk, Cezary (2017). Deep Network Guided Proof Search. In _International Conference on Logic forProgramming, Artificial Intelligence and Reasoning_. [[bibtex](../database.bib#L3935)]
+* Mediouni, Braham Lotfi and Nouri, Ayoub and Bozga, Marius and Bensalem, Saddek (2017). Improved Learning for Stochastic Timed Models by State-Merging Algorithms. In _NASA Formal Methods_, p. 178--193. Springer International Publishing. [[bibtex](../database.bib#L4034)]
+* Menouer, T. and Baarir, S. (2017). Parallel Learning Portfolio-based solvers. In _Unknown proceedings_, Procedia Computer Science 108, p. 335-344. [[doi](http://dx.doi.org/10.1016/j.procs.2017.05.140)][[bibtex](../database.bib#L4044)]
+* Moon, Seongsoo and Inaba, Mary (2017). Boost sat solver with hybrid branching heuristic. In _Proceedings of the International Symposium on Combinatorial Search_ 8(1), p. 56--63. [[bibtex](../database.bib#L4096)]
+* Peng, Kebin and Ma, Dianfu (2017). Tree-Structure CNN for Automated Theorem Proving. In _Neural Information Processing_, p. 3--12. Springer International Publishing. [[bibtex](../database.bib#L4273)]
+* Takada, Keiichiro and Takimoto, Munehiro and Kumazawa, Tsutomu and Kambayashi, Yasushi (2017). ACO Based Model Checking Extended by Smell-Like Pheromone with Hop Counts. In _Harmony Search Algorithm_, p. 52--63. Springer Singapore. [[bibtex](../database.bib#L4500)]
+* Urban, Josef (2017). MaLARea: a Metasystem for Automated Reasoning in Large Theories.. In _Proceedings of the CADE-21 Workshop on Empirically Successful Automated Reasoning in Large Theories_, ESARLT 257. [[bibtex](../database.bib#L4583)]
+* Wang, Mingzhe and Tang, Yihe and Wang, Jian and Deng, Jia (2017). Premise Selection for Theorem Proving by Deep Graph Embedding. In _Advances in Neural Information Processing Systems_ 30. Curran Associates, Inc.. [[bibtex](../database.bib#L4622)]
+* Wang, Jingyi and Sun, Jun and Yuan, Qixia and Pang, Jun (2017). Should We Learn Probabilistic Models for Model Checking? A New Approach and An Empirical Study. In _Fundamental Approaches to Software Engineering_, p. 3--21. Springer Berlin Heidelberg. [[bibtex](../database.bib#L4632)]
+* Wu, Guanfeng and Chen, Qingshan and Cao, Feng and Xu, Yang and Zhong, Xiaomei (2017). Parallel hybrid genetic algorithm for sat problems based on OpenMP. In _2017 12th International Conference on Intelligent Systems and Knowledge Engineering (ISKE)_, p. 1-5. [[doi](http://dx.doi.org/10.1109/ISKE.2017.8258783)][[bibtex](../database.bib#L4662)]
+* Wu, Haoze (2017). Improving SAT-Solving with Machine Learning. In _Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education_, SIGCSE '17, p. 787–788. Association for Computing Machinery. [[doi](http://dx.doi.org/10.1145/3017680.3022464)][[bibtex](../database.bib#L4672)]
+
+## 2016
+
+* Blanchette, Jasmin Christian and Greenaway, David and Kaliszyk, Cezary and Kühlwein, Daniel and Urban, Josef (2016). A learning-based fact selector for Isabelle/HOL. In _Journal of Automated Reasoning_ 57, p. 219--244. [[bibtex](../database.bib#L2322)]
+* Blanchette, Jasmin C. and Kaliszyk, Cezary and Paulson, Lawrence C. and Urban, Josef (2016). Hammering towards QED. In _J. Formaliz. Reason._ 9(1), p. 101--148. [[bibtex](../database.bib#L2332)]
+* Canisius, Gakiza and Wilson, Kalisa and Zhang, Yuzhang and Chenhui, Yang and Xin, Hong (2016). A genetic-based local search method for SAT problem. In _2016 IEEE Information Technology, Networking, Electronic and Automation Control Conference_, p. 454-458. [[doi](http://dx.doi.org/10.1109/ITNEC.2016.7560401)][[bibtex](../database.bib#L2548)]
+* Chen, Yu-Fang and Hsieh, Chiao and Lengál, Ondřej and Lii, Tsung-Ju and Tsai, Ming-Hsien and Wang, Bow-Yaw and Wang, Farn (2016). PAC Learning-Based Verification and Model Synthesis. In _Proceedings of the 38th International Conference on Software Engineering_, ICSE '16, p. 714–724. Association for Computing Machinery. [[doi](http://dx.doi.org/10.1145/2884781.2884860)][[bibtex](../database.bib#L2600)]
+* Michael Färber and Chad Brown (2016). Internal Guidance for Satallax. In _Automated Reasoning_. Springer International Publishing p. 349--361. [[doi](http://dx.doi.org/10.1007/978-3-319-40229-1_24)][[bibtex](../database.bib#L2810)]
+* Garg, Pranav and Neider, Daniel and Madhusudan, P. and Roth, Dan (2016). Learning Invariants Using Decision Trees and Implication Counterexamples. In _SIGPLAN Not._ 51(1), p. 499–512. [[doi](http://dx.doi.org/10.1145/2914770.2837664)][[bibtex](../database.bib#L2996)]
+* Hansen, J.P. and Chaki, S. and Hissam, S. and Edmondson, J. and Moreno, G.A. and Kyle, D. (2016). Input attribution for statistical model checking using logistic regression. In _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_ 10012 LNCS, p. 185-200. [[doi](http://dx.doi.org/10.1007/978-3-319-46982-9_12)][[bibtex](../database.bib#L3209)]
+* Irving, Geoffrey and Szegedy, Christian and Alemi, Alexander A and Een, Niklas and Chollet, Francois and Urban, Josef (2016). DeepMath - Deep Sequence Models for Premise Selection. In _Advances in Neural Information Processing Systems_ 29. Curran Associates, Inc.. [[bibtex](../database.bib#L3305)]
+* Kumazawa, Tsutomu and Yokoyama, Chihiro and Takimoto, Munehiro and Kambayashi, Yasushi (2016). Ant colony optimization based model checking extended by smell-like pheromone. In _EAI Endorsed Transactions on Industrial Networks and Intelligent Systems_ 3(7), p. e1--e1. [[bibtex](../database.bib#L3779)]
+* Li, Bingfen and Zhang, Yu-an (2016). A hybrid genetic algorithm to solve 3-SAT problem. In _2016 12th International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD)_, p. 476-480. [[doi](http://dx.doi.org/10.1109/FSKD.2016.7603220)][[bibtex](../database.bib#L3893)]
+* Liang, Jia Hui and Ganesh, Vijay and Poupart, Pascal and Czarnecki, Krzysztof (2016). Learning rate based branching heuristic for SAT solvers. In _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_ 9710, p. 123 – 140. [[doi](http://dx.doi.org/10.1007/978-3-319-40970-2_9)][[bibtex](../database.bib#L3903)]
+* Loreggia, Andrea and Malitsky, Yuri and Samulowitz, Horst and Saraswat, Vijay (2016). Deep Learning for Algorithm Portfolios. In _Proceedings of the AAAI Conference on Artificial Intelligence_ 30(1). [[doi](http://dx.doi.org/10.1609/aaai.v30i1.10170)][[bibtex](../database.bib#L3943)]
+* Padhi, Saswat and Sharma, Rahul and Millstein, Todd (2016). Data-Driven Precondition Inference with Learned Features. In _SIGPLAN Not._ 51(6), p. 42–56. [[doi](http://dx.doi.org/10.1145/2980983.2908099)][[bibtex](../database.bib#L4217)]
+* Peled, Doron (2016). Using Genetic Programming for Software Reliability. In _Runtime Verification_, p. 116--131. Springer International Publishing. [[bibtex](../database.bib#L4252)]
+* Doron Peled (2016). Automatic Synthesis of Code Using Genetic Programming. In _Leveraging Applications of Formal Methods, Verification and Validation: Foundational Techniques_. Springer International Publishing p. 182--187. [[doi](http://dx.doi.org/10.1007/978-3-319-47166-2_12)][[bibtex](../database.bib#L4262)]
+* Walkinshaw, Neil and Taylor, Ramsay and Derrick, John (2016). Inferring extended finite state machine models from software executions. In _Empirical Software Engineering_ 21, p. 811--853. [[bibtex](../database.bib#L4612)]
+* Yang, Li-An and Liu, Jui-Pin and Chen, Chao-Hong and Chen, Ying-ping (2016). Automatically proving mathematical theorems with evolutionary algorithms and proof assistants. In _2016 IEEE Congress on Evolutionary Computation (CEC)_, p. 4421-4428. [[doi](http://dx.doi.org/10.1109/CEC.2016.7744352)][[bibtex](../database.bib#L4706)]
+* Zojaji, Zahra and Ladani, Behrouz Tork and Khalilian, Alireza (2016). Automated program repair using genetic programming and model checking. In _Applied Intelligence_ 45, p. 1066--1088. [[bibtex](../database.bib#L4814)]
+
+## 2015
+
+* Ansoilgui, Carlos and Bonet, Maria Luisa and Giraldez-Cru, Jesus and Levy, Jordi (2015). On the Classification of Industrial SAT Families. In _ARTIFICIAL INTELLIGENCE RESEARCH AND DEVELOPMENT_, Frontiers in Artificial Intelligence and Applications 277, p. 163-172. [[doi](http://dx.doi.org/10.3233/978-1-61499-578-4-163)][[bibtex](../database.bib#L2173)]
+* Blanchette, Jasmin Christian and Haslbeck, Maximilian and Matichuk, Daniel and Nipkow, Tobias (2015). Mining the Archive of Formal Proofs. In _Intelligent Computer Mathematics_, p. 3--17. Springer International Publishing. [[bibtex](../database.bib#L2312)]
+* Noureddine Bouhmala (2015). A multilevel learning automata for MAX-SAT. In _International Journal of Machine Learning and Cybernetics_ 6(6), p. 911--921. [[doi](http://dx.doi.org/10.1007/s13042-015-0355-4)][[bibtex](../database.bib#L2444)]
+* Yulia Demyanova and Thomas Pani and Helmut Veith and Florian Zuleger (2015). Empirical Software Metrics for Benchmarking of Verification Tools. In _Computer Aided Verification_. Springer International Publishing p. 561--579. [[doi](http://dx.doi.org/10.1007/978-3-319-21690-4_39)][[bibtex](../database.bib#L2673)]
+* Färber, M. and Kaliszyk, C. (2015). Random forests for Premise Selection. In _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_ 9322, p. 325-340. [[doi](http://dx.doi.org/10.1007/978-3-319-24246-0_20)][[bibtex](../database.bib#L2789)]
+* Färber, Michael and Cezary Kaliszyk (2015). Metis-based Paramodulation Tactic for HOL Light.. In _GCAI 2015. Global Conference on Artificial Intelligence_ 36,, p. 127-136. [[bibtex](../database.bib#L2800)]
+* Thibault Gauthier and Cezary Kaliszyk (2015). Premise Selection and External Provers for HOL4. In _Proceedings of the 2015 Conference on Certified Programs and Proofs_. ACM. [[doi](http://dx.doi.org/10.1145/2676724.2693173)][[bibtex](../database.bib#L3008)]
+* Jiaying, Li (2015). An Invariant Inference Framework by Active Learning and SVMs. In _2015 20th International Conference on Engineering of Complex Computer Systems (ICECCS)_, p. 218-221. [[doi](http://dx.doi.org/10.1109/ICECCS.2015.40)][[bibtex](../database.bib#L3401)]
+* Cezary Kaliszyk and Josef Urban (2015). MizAR 40 for Mizar 40. In _Journal of Automated Reasoning_ 55(3), p. 245--256. [[doi](http://dx.doi.org/10.1007/s10817-015-9330-8)][[bibtex](../database.bib#L3464)]
+* Kaliszyk, Cezary and Urban, Josef and Vyskočil, Jiří (2015). Efficient Semantic Features for Automated Reasoning over Large Theories. In _Proceedings of the 24th International Conference on Artificial Intelligence_, IJCAI'15, p. 3084–3090. AAAI Press. [[bibtex](../database.bib#L3476)]
+* Kaliszyk, Cezary and Urban, Josef (2015). FEMaLeCoP: Fairly Efficient Machine Learning Connection Prover. In _Logic for Programming, Artificial Intelligence, and Reasoning_, p. 88--96. Springer Berlin Heidelberg. [[bibtex](../database.bib#L3487)]
+* Kaliszyk, Cezary and Urban, Josef (2015). HOL (y) Hammer: Online ATP service for HOL Light. In _Mathematics in Computer Science_ 9, p. 5--22. [[bibtex](../database.bib#L3497)]
+* Kaliszyk, Cezary and Urban, Josef (2015). Learning-assisted theorem proving with millions of lemmas. In _Journal of symbolic computation_ 69, p. 109--128. [[bibtex](../database.bib#L3507)]
+* Cezary Kaliszyk and Josef Urban and Jiří Vyskočil (2015). Lemmatization for Stronger Reasoning in Large Theories. In _Frontiers of Combining Systems_. Springer International Publishing p. 341--356. [[doi](http://dx.doi.org/10.1007/978-3-319-24246-0_21)][[bibtex](../database.bib#L3517)]
+* Kühlwein, Daniel and Urban, Josef (2015). MaLeS: A framework for automatic tuning of automated theorem provers. In _Journal of Automated Reasoning_ 55, p. 91--116. [[bibtex](../database.bib#L3769)]
+* Lovíškova, J. (2015). Solving the 3-SAT problem using genetic algorithms. In _Unknown booktitle_. p. 207-212. [[doi](http://dx.doi.org/10.1109/INES.2015.7329708)][[bibtex](../database.bib#L3954)]
+* Schäfer, Simon and Schulz, Stephan (2015). Breeding Theorem Proving Heuristics with Genetic Algorithms.. In _GCAI_, p. 263--274. [[bibtex](../database.bib#L4376)]
+* Tatjana Stojanović and Tatjana Davidović and Zoran Ognjanović (2015). Bee colony optimization for the satisfiability problem in probabilistic logic. In _Applied Soft Computing_ 31, p. 339-347. [[doi](http://dx.doi.org/10.1016/j.asoc.2015.03.017)][[bibtex](../database.bib#L4468)]
+* Zhang, Yu-an and Bingfen Li and Qiao Meng and Qiongqiong Hu and Qinglian Ma (2015). The experimental analysis of the efficiency of genetic algorithm based on 3-satisfiability problem. In _2015 11th International Conference on Natural Computation (ICNC)_, p. 245-249. [[doi](http://dx.doi.org/10.1109/ICNC.2015.7377998)][[bibtex](../database.bib#L4765)]
+* Zhu, He and Nori, Aditya V. and Jagannathan, Suresh (2015). Learning Refinement Types. In _SIGPLAN Not._ 50(9), p. 400–411. [[doi](http://dx.doi.org/10.1145/2858949.2784766)][[bibtex](../database.bib#L4802)]
+
+## 2014
+
+* Ali, H. M. and Mitchell, David and Lee, Daniel C. (2014). MAX-SAT problem using evolutionary algorithms. In _2014 IEEE Symposium on Swarm Intelligence_, p. 1-8. [[doi](http://dx.doi.org/10.1109/SIS.2014.7011783)][[bibtex](../database.bib#L2152)]
+* Balle, Borja and Castro, Jorge and Gavalda, Ricard (2014). Adaptively learning probabilistic deterministic automata from data streams. In _Machine learning_ 96, p. 99--127. [[bibtex](../database.bib#L2238)]
+* Bouhmala, Noureddine (2014). Enhanced Walksat with Finite Learning Automata For MAX-SAT. In _International Journal of Combinatorial Optimization Problems and Informatics_ 5(3), p. 20--36. [[bibtex](../database.bib#L2433)]
+* Brázdil, Tomáš and Chatterjee, Krishnendu and Chmelík, Martin and Forejt, Vojtěch and Křet\ńský, Jan and Kwiatkowska, Marta and Parker, David and Ujma, Mateusz (2014). Verification of Markov Decision Processes Using Learning Algorithms. In _Automated Technology for Verification and Analysis_, p. 98--114. Springer International Publishing. [[bibtex](../database.bib#L2473)]
+* Bridge, James P and Holden, Sean B and Paulson, Lawrence C (2014). Machine learning for first-order theorem proving: learning to select a good heuristic. In _Journal of automated reasoning_ 53, p. 141--172. [[bibtex](../database.bib#L2483)]
+* Fan, Q. and Duan, Z. and Tian, C. and Du, H. (2014). Clustering and partition based divide and conquer for SAT solving. In _Unknown proceedings_, Proceedings - 2014 10th International Conference on Mobile Ad-Hoc and Sensor Networks, MSN 2014, p. 299-307. [[doi](http://dx.doi.org/10.1109/MSN.2014.48)][[bibtex](../database.bib#L2821)]
+* Garg, Pranav and Löding, Christof and Madhusudan, P. and Neider, Daniel (2014). ICE: A Robust Framework for Learning Invariants. In _Computer Aided Verification_, p. 69--87. Springer International Publishing. [[bibtex](../database.bib#L2986)]
+* Gransden, Thomas and Walkinshaw, Neil and Raman, Rajeev (2014). Mining State-Based Models from Proof Corpora. In _Intelligent Computer Mathematics_, p. 282--297. Springer International Publishing. [[bibtex](../database.bib#L3133)]
+* Hamadneh, Nawaf and Sathasivam, Saratha and Tilahun, Surafel Luleseged and Choon, Ong Hong (2014). Satisfiability of logic programming based on radial basis function neural networks. In _AIP Conference Proceedings_ 1605(1), p. 547-550. [[doi](http://dx.doi.org/10.1063/1.4887647)][[bibtex](../database.bib#L3185)]
+* Jónathan Heras and Ekaterina Komendantskaya (2014). Recycling Proof Patterns in Coq: Case Studies. In _Mathematics in Computer Science_ 8(1), p. 99--116. [[doi](http://dx.doi.org/10.1007/s11786-014-0173-1)][[bibtex](../database.bib#L3261)]
+* Frank Hutter and Lin Xu and Holger H. Hoos and Kevin Leyton-Brown (2014). Algorithm runtime prediction: Methods & evaluation. In _Artificial Intelligence_ 206, p. 79-111. [[doi](http://dx.doi.org/10.1016/j.artint.2013.10.003)][[bibtex](../database.bib#L3294)]
+* Kaliszyk, Cezary and Urban, Josef (2014). Learning-Assisted Automated Reasoning with Flyspeck. In _Journal of Automated Reasoning_ 53(2), p. 173-213. [[doi](http://dx.doi.org/10.1007/s10817-014-9303-3)][[bibtex](../database.bib#L3452)]
+* Katz, G. and Peled, D. (2014). Synthesis of parametric programs using genetic programming and model checking. In _Unknown proceedings_, Electronic Proceedings in Theoretical Computer Science, EPTCS 140, p. 70-84. [[doi](http://dx.doi.org/10.4204/EPTCS.140.5)][[bibtex](../database.bib#L3601)]
+* Layeb, A. and Saidouni, D.-E. (2014). A hybrid quantum genetic algorithm and local search based DPLL for max 3-SAT problems. In _Applied Mathematics and Information Sciences_ 8(1), p. 77-87. [[doi](http://dx.doi.org/10.12785/amis/080109)][[bibtex](../database.bib#L3862)]
+* Malitsky, Yuri (2014). Training Parameterized Solvers. In _Instance-Specific Algorithm Configuration_. Springer International Publishing p. 25--40. [[doi](http://dx.doi.org/10.1007/978-3-319-11230-5_4)][[bibtex](../database.bib#L3993)]
+* Molnár, Botond and Sumi, Róbert and Ercsey-Ravasz, Mária (2014). A CNN SAT-solver robust to noise. In _2014 14th International Workshop on Cellular Nanoscale Networks and their Applications (CNNA)_, p. 1-2. [[doi](http://dx.doi.org/10.1109/CNNA.2014.6888596)][[bibtex](../database.bib#L4086)]
+* Nouri, Ayoub and Raman, Balaji and Bozga, Marius and Legay, Axel and Bensalem, Saddek (2014). Faster Statistical Model Checking by Means of Abstraction and Learning. In _Runtime Verification_, p. 340--355. Springer International Publishing. [[bibtex](../database.bib#L4184)]
+* Tulsian, Varun and Kanade, Aditya and Kumar, Rahul and Lal, Akash and Nori, Aditya V. (2014). MUX: Algorithm Selection for Software Model Checkers. In _Proceedings of the 11th Working Conference on Mining Software Repositories_, MSR 2014, p. 132–141. Association for Computing Machinery. [[doi](http://dx.doi.org/10.1145/2597073.2597080)][[bibtex](../database.bib#L4520)]
+
+## 2013
+
+* Abdul Aziz, Mohammad and Wassal, Amr and Darwish, Nevine (2013). A Machine Learning Technique for Hardness Estimation of QFBV SMT Problems. In _EPiC Series in Computing_. EasyChair. [[doi](http://dx.doi.org/10.29007/z794)][[bibtex](../database.bib#L2042)]
+* Jesse Alama and Tom Heskes and Daniel Kühlwein and Evgeni Tsivtsivadze and Josef Urban (2013). Premise Selection for Mathematics by Corpus Analysis and Kernel Methods. In _Journal of Automated Reasoning_ 52(2), p. 191--213. [[doi](http://dx.doi.org/10.1007/s10817-013-9286-5)][[bibtex](../database.bib#L2072)]
+* Drias, H. and Douib, A. and Hirèche, C. (2013). Swarm intelligence with clustering for solving SAT. In _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_ 8206 LNCS, p. 585-593. [[doi](http://dx.doi.org/10.1007/978-3-642-41278-3_71)][[bibtex](../database.bib#L2707)]
+* Drias, Habiba and Hirèche, Célia and Douib, Ameur (2013). Datamining techniques and swarm intelligence for problem solving: Application to SAT. In _2013 World Congress on Nature and Biologically Inspired Computing_, p. 200-206. [[doi](http://dx.doi.org/10.1109/NaBIC.2013.6617862)][[bibtex](../database.bib#L2718)]
+* Heras, Jónathan and Komendantskaya, Ekaterina and Johansson, Moa and Maclean, Ewen (2013). Proof-Pattern Recognition and Lemma Discovery in ACL2. In _Logic for Programming, Artificial Intelligence, and Reasoning_, p. 389--406. Springer Berlin Heidelberg. [[bibtex](../database.bib#L3251)]
+* Kaliszyk, Cezary and Urban, Josef (2013). Stronger automation for Flyspeck by feature weighting and strategy evolution. In _Unknown booktitle_. [Sl]: EasyChair. [[bibtex](../database.bib#L3434)]
+* Kaliszyk, Cezary and Urban, Josef (2013). Automated Reasoning Service for HOL Light. In _Intelligent Computer Mathematics_, p. 120--135. Springer Berlin Heidelberg. [[bibtex](../database.bib#L3442)]
+* Kühlwein, Daniel and Blanchette, Jasmin Christian and Kaliszyk, Cezary and Urban, Josef (2013). MaSh: Machine Learning for Sledgehammer. In _Interactive Theorem Proving_, p. 35--50. Springer Berlin Heidelberg. [[bibtex](../database.bib#L3749)]
+* Kühlwein, Daniel and Schulz, Stephan and Urban, Josef (2013). E-MaLeS 1.1. In _Automated Deduction -- CADE-24_, p. 407--413. Springer Berlin Heidelberg. [[bibtex](../database.bib#L3759)]
+* Layeb, Abdesslem (2013). A new greedy randomised adaptive search procedure for solving the maximum satisfiability problem. In _International Journal of Operational Research_ 17(4), p. 509--525. [[bibtex](../database.bib#L3851)]
+* Nikolić, M. and Marić, F. and Janičić, P. (2013). Simple algorithm portfolio for SAT. In _Artificial Intelligence Review_ 40(4), p. 457-465. [[doi](http://dx.doi.org/10.1007/s10462-011-9290-2)][[bibtex](../database.bib#L4162)]
+* Boris Shabash and Kay C. Wiese (2013). pEvoSAT: A Novel Permutation Based Genetic Algorithm for Solving the Boolean Satisfiability Problem. In _Proceedings of the 15th annual conference on Genetic and evolutionary computation_. ACM. [[doi](http://dx.doi.org/10.1145/2463372.2463479)][[bibtex](../database.bib#L4416)]
+* Tseng, Lin-Yu and Lin, Yo-An (2013). A Hybrid Genetic Algorithm for the Maximum Satisfiability Problem. In _Recent Trends in Applied Artificial Intelligence_, p. 112--120. Springer Berlin Heidelberg. [[bibtex](../database.bib#L4510)]
+* Urban, Josef and Vyskočil, Jiří (2013). Automated Reasoning and Mathematics. In _Automated Reasoning and Mathematics_. Springer-Verlag p. 240–257. [[bibtex](../database.bib#L4573)]
+
+## 2012
+
+* Alrajeh, D. and Russo, A. and Uchitel, S. and Kramer, J. (2012). Integrating model checking and inductive logic programming. In _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_ 7207 LNAI, p. 45-60. [[doi](http://dx.doi.org/10.1007/978-3-642-31951-8_9)][[bibtex](../database.bib#L2162)]
+* Chen, Yingke and Mao, Hua and Jaeger, Manfred and Nielsen, Thomas Dyhre and Guldstrand Larsen, Kim and Nielsen, Brian (2012). Learning Markov Models for Stationary System Behaviors. In _NASA Formal Methods_, p. 216--230. Springer Berlin Heidelberg. [[bibtex](../database.bib#L2579)]
+* Chen, Yingke and Nielsen, Thomas Dyhre (2012). Active Learning of Markov Decision Processes for System Verification. In _2012 11th International Conference on Machine Learning and Applications_ 2, p. 289-294. [[doi](http://dx.doi.org/10.1109/ICMLA.2012.158)][[bibtex](../database.bib#L2589)]
+* Ferrari, A. and Gnesi, S. and Tolomei, G. (2012). A clustering-based approach for discovering flaws in requirements specifications. In _Unknown proceedings_, Proceedings of the ACM Symposium on Applied Computing, p. 1043-1050. [[doi](http://dx.doi.org/10.1145/2245276.2231939)][[bibtex](../database.bib#L2853)]
+* Flint, Alex and Blaschko, Matthew (2012). Perceptron Learning of SAT. In _Advances in Neural Information Processing Systems_ 25. Curran Associates, Inc.. [[bibtex](../database.bib#L2863)]
+* Khalifa, M. and Raafat, H. and Almulla, M. (2012). Machine learning approach to enhance the design of automated theorem provers. In _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_ 7664 LNCS(PART 2), p. 673-682. [[doi](http://dx.doi.org/10.1007/978-3-642-34481-7_82)][[bibtex](../database.bib#L3624)]
+* Khalifa, Mahdi and Raafat, Hazem and Almulla, Mohammed (2012). Machine Learning Approach to Enhance the Design of Automated Theorem Provers. In _Neural Information Processing_, p. 673--682. Springer Berlin Heidelberg. [[bibtex](../database.bib#L3636)]
+* Ekaterina Komendantskaya and Kacper Lichota (2012). Neural Networks for Proof-Pattern Recognition. In _Artificial Neural Networks and Machine Learning – ICANN 2012_. Springer Berlin Heidelberg p. 427--434. [[doi](http://dx.doi.org/10.1007/978-3-642-33266-1_53)][[bibtex](../database.bib#L3689)]
+* Kühlwein, Daniel and Urban, Josef (2012). Learning from Multiple Proofs: First Experiments. In _Unknown booktitle_.. [[bibtex](../database.bib#L3742)]
+* Maccagnola, Daniele and Messina, Enza and Gao, Qian and Gilbert, David (2012). A machine learning approach for generating temporal logic classifications of complex model behaviours. In _Proceedings of the 2012 Winter Simulation Conference (WSC)_, p. 1-12. [[doi](http://dx.doi.org/10.1109/WSC.2012.6465202)][[bibtex](../database.bib#L3983)]
+* Molnár, Botond and Toroczkai, Zoltán and Ercsey-Ravasz, Mária (2012). Continuous-time neural networks without local traps for solving Boolean satisfiability. In _2012 13th International Workshop on Cellular Nanoscale Networks and their Applications_, p. 1-6. [[doi](http://dx.doi.org/10.1109/CNNA.2012.6331411)][[bibtex](../database.bib#L4076)]
+* Zeng, G. and Zhang, Z. and Lu, Y. and Dai, Y. and Zheng, C. (2012). A multistage optimization method based on WALKSAT and clustering for the hard MAX-SAT problems. In _Unknown booktitle_. p. 2358-2361. [[bibtex](../database.bib#L4716)]
+
+## 2011
+
+* Bouhmala, Noureddine and Granmo, Ole-Christoffer (2011). GSAT enhanced with learning automata and multilevel paradigm. In _International Journal of Computer Science Issues (IJCSI)_ 8(6), p. 38. [[bibtex](../database.bib#L2411)]
+* Bouhmala, N (2011). Combining an Evolutionary Algorithm with the Multilevel Paradigm for Solving the Satisfiability Problem. In _Journal of Intelligent Computing Volume_ 2(4), p. 195. [[bibtex](../database.bib#L2422)]
+* Francesca, Gianpiero and Santone, Antonella and Vaglini, Gigliola and Villani, Maria Luisa (2011). Ant Colony Optimization for Deadlock Detection in Concurrent Systems. In _2011 IEEE 35th Annual Computer Software and Applications Conference_, p. 108-117. [[doi](http://dx.doi.org/10.1109/COMPSAC.2011.22)][[bibtex](../database.bib#L2905)]
+* Serdar Kadioglu and Yuri Malitsky and Ashish Sabharwal and Horst Samulowitz and Meinolf Sellmann (2011). Algorithm Selection and Scheduling. In _Principles and Practice of Constraint Programming – CP 2011_. Springer Berlin Heidelberg p. 454--469. [[doi](http://dx.doi.org/10.1007/978-3-642-23786-7_35)][[bibtex](../database.bib#L3423)]
+* Katz, G. and Peled, D. (2011). Synthesizing solutions to the leader election problem using model checking and genetic programming. In _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_ 6405 LNCS, p. 117-132. [[doi](http://dx.doi.org/10.1007/978-3-642-19237-1_13)][[bibtex](../database.bib#L3590)]
+* Daniel Kühlwein and Josef Urban and Evgeni Tsivtsivadze and Herman Geuvers and Tom Heskes (2011). MULTI-OUTPUT RANKING FOR AUTOMATED REASONING. In _Proceedings of the International Conference on Knowledge Discovery and Information Retrieval - Volume 1: KDIR, (IC3K 2011)_, p. 42-51. SciTePress. [[doi](http://dx.doi.org/10.5220/0003650400420051)][[bibtex](../database.bib#L3731)]
+* Ma, QingLian and Zhang, Yu-an and Sakamoto, Makoto and Furutani, Hiroshi (2011). Study of computational performance of Genetic Algorithm for 3-satisfiability problem. In _algorithms (EAs)_ 5(6). [[bibtex](../database.bib#L3973)]
+* Mao, Hua and Chen, Yingke and Jaeger, Manfred and Nielsen, Thomas D. and Larsen, Kim G. and Nielsen, Brian (2011). Learning Probabilistic Automata for Model Checking. In _2011 Eighth International Conference on Quantitative Evaluation of SysTems_, p. 111-120. [[doi](http://dx.doi.org/10.1109/QEST.2011.21)][[bibtex](../database.bib#L4004)]
+* Turliuc, C.-R. (2011). ProbPoly - A Probabilistic Inductive Logic Programming framework with application in model checking. In _Unknown booktitle_. p. 43-50. [[doi](http://dx.doi.org/10.1145/2070821.2070827)][[bibtex](../database.bib#L4532)]
+* Urban, Josef and Vyskočil, Jiří and Štěpánek, Petr (2011). MaLeCoP Machine Learning Connection Prover. In _Automated Reasoning with Analytic Tableaux and Related Methods_, p. 263--277. Springer Berlin Heidelberg. [[bibtex](../database.bib#L4563)]
+
+## 2010
+
+* Borges, Rafael V. and d'Avila Garcez, Artur and Lamb, Luis C. (2010). Integrating Model Verification and Self-Adaptation. In _Proceedings of the 25th IEEE/ACM International Conference on Automated Software Engineering_, ASE '10, p. 317–320. Association for Computing Machinery. [[doi](http://dx.doi.org/10.1145/1858996.1859060)][[bibtex](../database.bib#L2343)]
+* Noureddine Bouhmala and Ole-Christoffer Granmo (2010). Combining finite learning automata with GSAT for the satisfiability problem. In _Engineering Applications of Artificial Intelligence_ 23(5), p. 715-726. [[doi](http://dx.doi.org/10.1016/j.engappai.2010.01.009)][[bibtex](../database.bib#L2399)]
+* Granmo, Ole-Christoffer and Bouhmala, Noureddine (2010). Using Learning Automata to Enhance Local-Search Based SAT Solvers with Learning Capability. In _Application of Machine Learning_. IntechOpen. [[bibtex](../database.bib#L3115)]
+* Granmo, Ole-Christoffer and Bouhmala, Noureddine (2010). Enhancing Local-search based SAT Solvers with Learning Capability.. In _ICAART (1)_, p. 515--521. [[bibtex](../database.bib#L3124)]
+* Katz, G. and Peled, D. (2010). MCGP: A software synthesis tool based on model checking and genetic programming. In _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_ 6252 LNCS, p. 359-364. [[doi](http://dx.doi.org/10.1007/978-3-642-15643-4_28)][[bibtex](../database.bib#L3568)]
+* Katz, Gal and Peled, Doron (2010). Code Mutation in Verification and Automatic Code Correction. In _Tools and Algorithms for the Construction and Analysis of Systems_. Springer Berlin Heidelberg p. 435-450. [[doi](http://dx.doi.org/10.1007/978-3-642-12002-2_36)][[bibtex](../database.bib#L3579)]
+* Yousef Kilani (2010). Comparing the performance of the genetic and local search algorithms for solving the satisfiability problems. In _Applied Soft Computing_ 10(1), p. 198--207. [[doi](http://dx.doi.org/10.1016/j.asoc.2009.07.012)][[bibtex](../database.bib#L3666)]
+* Layeb, Abdesslem and Deneche, Abdel Hakim and Meshoul, Souham (2010). A New Artificial Immune System for Solving the Maximum Satisfiability Problem. In _Trends in Applied Intelligent Systems_, p. 136--142. Springer Berlin Heidelberg. [[bibtex](../database.bib#L3841)]
+* Qasem, Mohamed and Prügel-Bennett, Adam (2010). Learning the Large-Scale Structure of the MAX-SAT Landscape Using Populations. In _IEEE Transactions on Evolutionary Computation_ 14(4), p. 518-529. [[doi](http://dx.doi.org/10.1109/TEVC.2009.2033579)][[bibtex](../database.bib#L4293)]
+* Bryan Silverthorn and Risto Miikkulainen (2010). Latent Class Models for Algorithm Portfolio Methods. In _Proceedings of the AAAI Conference on Artificial Intelligence_ 24(1), p. 167--172. [[doi](http://dx.doi.org/10.1609/aaai.v24i1.7546)][[bibtex](../database.bib#L4446)]
+
+## 2009
+
+* Bader-El-Den, Mohamed and Poli, Riccardo (2009). Evolving Effective Incremental Solvers for SAT with a Hyper-Heuristic Framework Based on Genetic Programming. In _Genetic Programming Theory and Practice VI_. Springer US p. 1--16. [[doi](http://dx.doi.org/10.1007/978-0-387-87623-8_11)][[bibtex](../database.bib#L2217)]
+* Edelkamp, Stefan and Schuppan, Viktor and Bošnački, Dragan and Wijs, Anton and Fehnker, Ansgar and Aljazzar, Husain (2009). Survey on Directed Model Checking. In _Model Checking and Artificial Intelligence_, p. 65--89. Springer Berlin Heidelberg. [[bibtex](../database.bib#L2735)]
+* Fukunaga, Alex S. (2009). Massively parallel evolution of SAT heuristics. In _2009 IEEE Congress on Evolutionary Computation_, p. 1478-1485. [[doi](http://dx.doi.org/10.1109/CEC.2009.4983117)][[bibtex](../database.bib#L2976)]
+* Haim, Shai and Walsh, Toby (2009). Restart Strategy Selection Using Machine Learning Techniques. In _Theory and Applications of Satisfiability Testing - SAT 2009_, p. 312--325. Springer Berlin Heidelberg. [[bibtex](../database.bib#L3175)]
+* Han, Xiwu (2009). A Cross-Lingual Word Kernel SVM for SMT Training Corpus Selection. In _Proceedings of the 2009 WRI World Congress on Computer Science and Information Engineering - Volume 02_, CSIE '09, p. 626–630. IEEE Computer Society. [[doi](http://dx.doi.org/10.1109/CSIE.2009.278)][[bibtex](../database.bib#L3197)]
+* Lefticaru, R. and Ipate, F. and Tudose, C. (2009). Automated model design using genetic algorithms and model checking. In _Unknown booktitle_. p. 79-84. [[doi](http://dx.doi.org/10.1109/BCI.2009.15)][[bibtex](../database.bib#L3884)]
+* Munawar, Asim and Wahib, Mohamed and Munetomo, Masaharu and Akama, Kiyoshi (2009). Hybrid of Genetic Algorithm and Local Search to Solve MAX-SAT Problem Using NVidia CUDA Framework. In _Genetic Programming and Evolvable Machines_ 10(4), p. 391–415. [[doi](http://dx.doi.org/10.1007/s10710-009-9091-4)][[bibtex](../database.bib#L4118)]
+* Nikolić, Mladen and Marić, Filip and Janičić, Predrag (2009). Instance-Based Selection of Policies for SAT Solvers. In _Theory and Applications of Satisfiability Testing - SAT 2009_, p. 326--340. Springer Berlin Heidelberg. [[bibtex](../database.bib#L4152)]
+* Nikora, Allen P. and Balcom, Galen (2009). Automated Identification of LTL Patterns in Natural Language Requirements. In _2009 20th International Symposium on Software Reliability Engineering_, p. 185-194. [[doi](http://dx.doi.org/10.1109/ISSRE.2009.15)][[bibtex](../database.bib#L4174)]
+* Rabanal, Pablo and Rodríguez, Ismael and Rubio, Fernando (2009). Applying Evolutionary Computation Methods to Formal Testing and Model Checking. In _Bio-Inspired Systems: Computational and Ambient Intelligence_, p. 310--317. Springer Berlin Heidelberg. [[bibtex](../database.bib#L4305)]
+* Villamizar, J.F.S. and Badr, Y. and Abraham, A. (2009). An enhanced fuzzy-genetic algorithm to solve satisfiability problems. In _Unknown booktitle_. p. 77-82. [[doi](http://dx.doi.org/10.1109/UKSIM.2009.106)][[bibtex](../database.bib#L4603)]
+* Zhang, Gexiang and Liu, Chunxiu and Gheorghe, Marian and Ipate, Florentin (2009). Solving satisfiability problems with membrane algorithms. In _2009 Fourth International on Conference on Bio-Inspired Computing_, p. 1-8. [[doi](http://dx.doi.org/10.1109/BICTA.2009.5338159)][[bibtex](../database.bib#L4755)]
+
+## 2008
+
+* Alba, Enrique and Chicano, Francisco (2008). Searching for Liveness Property Violations in Concurrent Systems with ACO. In _Proceedings of the 10th Annual Conference on Genetic and Evolutionary Computation_, GECCO '08, p. 1727–1734. Association for Computing Machinery. [[doi](http://dx.doi.org/10.1145/1389095.1389431)][[bibtex](../database.bib#L2128)]
+* Alba, Enrique and Chicano, Francisco and Ferreira, Marco and Gomez-Pulido, Juan (2008). Finding Deadlocks in Large Concurrent Java Programs Using Genetic Algorithms. In _Proceedings of the 10th Annual Conference on Genetic and Evolutionary Computation_, GECCO '08, p. 1735–1742. Association for Computing Machinery. [[doi](http://dx.doi.org/10.1145/1389095.1389432)][[bibtex](../database.bib#L2140)]
+* Bader-El-Den, Mohamed and Poli, Riccardo (2008). Generating SAT Local-Search Heuristics Using a GP Hyper-Heuristic Framework. In _Artificial Evolution_, p. 37--49. Springer Berlin Heidelberg. [[bibtex](../database.bib#L2207)]
+* Boughaci, Dalila and Benhamou, Belaı̈d and Drias, Habiba (2008). Scatter search and genetic algorithms for MAX-SAT problems. In _Journal of mathematical modelling and algorithms_ 7(2), p. 101--124. [[bibtex](../database.bib#L2388)]
+* Chicano, Francisco and Alba, Enrique (2008). Finding liveness errors with ACO. In _2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence)_, p. 2997-3004. [[doi](http://dx.doi.org/10.1109/CEC.2008.4631202)][[bibtex](../database.bib#L2612)]
+* Feng, Xiaoyue and Blanzieri, Enrico and Liang, Yanchun (2008). Improved Quantum-Inspired Evolutionary Algorithm and Its Application to 3-SAT Problems. In _2008 International Conference on Computer Science and Software Engineering_ 1, p. 333-336. [[doi](http://dx.doi.org/10.1109/CSSE.2008.1512)][[bibtex](../database.bib#L2842)]
+* Shai Haim and Toby Walsh (2008). Online Estimation of SAT Solving Runtime. In _Theory and Applications of Satisfiability Testing – SAT 2008_. Springer Berlin Heidelberg p. 133--138. [[doi](http://dx.doi.org/10.1007/978-3-540-79719-7_12)][[bibtex](../database.bib#L3164)]
+* Katz, G. and Peled, D. (2008). Genetic programming and model checking: Synthesizing new mutual exclusion algorithms. In _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_ 5311 LNCS, p. 33-47. [[doi](http://dx.doi.org/10.1007/978-3-540-88387-6_5)][[bibtex](../database.bib#L3546)]
+* Katz, Gal and Peled, Doron (2008). Model Checking-Based Genetic Programming with an Application to Mutual Exclusion. In _Tools and Algorithms for the Construction and Analysis of Systems_. Springer Berlin Heidelberg p. 141-156. [[doi](http://dx.doi.org/10.1007/978-3-540-78800-3_11)][[bibtex](../database.bib#L3557)]
+* Layeb, Abdesslem and Saidouni, Djamel-Eddine (2008). A New Quantum Evolutionary Local Search Algorithm for MAX 3-SAT Problem. In _Hybrid Artificial Intelligence Systems_, p. 172--179. Springer Berlin Heidelberg. [[bibtex](../database.bib#L3823)]
+* Layeb, ABDESSLEM and Saidouni, DJAMEL EDDINE (2008). A quantum genetic algorithm with hill climbing algorithm for max 3-SAT problems. In _Proceedings of International Conference on Intelligent Computing (ICIC’2008) China_. [[bibtex](../database.bib#L3833)]
+* Martinez-Rios, F. and Frausto-Solis, J. (2008). Simulated annealing for SAT problems using dynamic markov chains with linear regression equilibrium. In _Unknown booktitle_. p. 182-187. [[doi](http://dx.doi.org/10.1109/MICAI.2008.68)][[bibtex](../database.bib#L4025)]
+* Mouhoub, Malek (2008). Systematic versus local search and GA techniques for incremental SAT. In _International Journal of Computational Intelligence and Applications_ 7(01), p. 77--96. [[bibtex](../database.bib#L4107)]
+* Woei Shyang and Lakos, Charles and Michalewicz, Zbigniew and Schellenberg, Sven (2008). Experiments in applying evolutionary algorithms to software verification. In _2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence)_, p. 3531-3536. [[doi](http://dx.doi.org/10.1109/CEC.2008.4631275)][[bibtex](../database.bib#L4426)]
+* Urban, Josef and Sutcliffe, Geoff and Pudlák, Petr and Vyskočil, Jiří (2008). MaLARea SG1 - Machine Learner for Automated Reasoning with Semantic Guidance. In _Automated Reasoning_. Springer Berlin Heidelberg p. 441-456. [[doi](http://dx.doi.org/10.1007/978-3-540-71070-7_37)][[bibtex](../database.bib#L4552)]
+* L. Xu and F. Hutter and H. H. Hoos and K. Leyton-Brown (2008). SATzilla: Portfolio-based Algorithm Selection for SAT. In _Journal of Artificial Intelligence Research_ 32, p. 565--606. [[doi](http://dx.doi.org/10.1613/jair.2490)][[bibtex](../database.bib#L4695)]
+
+## 2007
+
+* Alba, Enrique and Chicano, Francisco (2007). Finding Safety Errors with ACO. In _Proceedings of the 9th Annual Conference on Genetic and Evolutionary Computation_, GECCO '07, p. 1066–1073. Association for Computing Machinery. [[doi](http://dx.doi.org/10.1145/1276958.1277171)][[bibtex](../database.bib#L2106)]
+* Alba, Enrique and Chicano, Francisco (2007). Ant Colony Optimization for Model Checking. In _Computer Aided Systems Theory -- EUROCAST 2007_, p. 523--530. Springer Berlin Heidelberg. [[bibtex](../database.bib#L2118)]
+* Araragi, Tadashi and Cho, Seung Mo (2007). Checking Liveness Properties of Concurrent Systems by Reinforcement Learning. In _Model Checking and Artificial Intelligence_, p. 84--94. Springer Berlin Heidelberg. [[bibtex](../database.bib#L2197)]
+* Granmo, Ole-Christoffer and Bouhmala, Noureddine and others (2007). Solving the Satisfiability Problem Using Finite Learning Automata.. In _International Journal of Computer Science & Applications_. [[bibtex](../database.bib#L3107)]
+* Kibria, R.H. (2007). Evolving a neural net-based decision and search heuristic for DPLL SAT solvers. In _Unknown booktitle_. p. 765-770. [[doi](http://dx.doi.org/10.1109/IJCNN.2007.4371054)][[bibtex](../database.bib#L3657)]
+* Lukasiewycz, Martin and Glass, Michael and Haubelt, Christian and Teich, Jurgen (2007). SAT-decoding in evolutionary algorithms for discrete constrained optimization problems. In _2007 IEEE Congress on Evolutionary Computation_, p. 935-942. [[doi](http://dx.doi.org/10.1109/CEC.2007.4424570)][[bibtex](../database.bib#L3963)]
+* Rebiha, R. achid and Ciampaglia, Giovanni L. (2007). An Ant Colony Verification Algorithm. In _Proceedings of the Seventh International Conference on Intelligent Systems Design and Applications_, ISDA '07, p. 901–906. IEEE Computer Society. [[bibtex](../database.bib#L4336)]
+* Samulowitz, Horst and Memisevic, Roland (2007). Learning to solve QBF. In _AAAI_ 7, p. 255--260. [[bibtex](../database.bib#L4366)]
+* Villagra, Marcos and Barán, Benjamín (2007). Ant Colony Optimization with Adaptive Fitness Function for Satisfiability Testing. In _Logic, Language, Information and Computation_, p. 352--361. Springer Berlin Heidelberg. [[bibtex](../database.bib#L4593)]
+* Lin Xu and Holger H. Hoos and Kevin Leyton-Brown (2007). Hierarchical Hardness Models for SAT. In _Principles and Practice of Constraint Programming – CP 2007_. Springer Berlin Heidelberg p. 696--711. [[doi](http://dx.doi.org/10.1007/978-3-540-74970-7_49)][[bibtex](../database.bib#L4684)]
+
+## 2006
+
+* Aksoy, Levent and Gunes, Ece Olcay (2006). An Evolutionary Local Search Algorithm for the Satisfiability Problem. In _Artificial Intelligence and Neural Networks_, p. 185--193. Springer Berlin Heidelberg. [[bibtex](../database.bib#L2062)]
+* Kibria, R.H. and Li, Y. (2006). Optimizing the initialization of dynamic decision heuristics in DPLL SAT solvers using genetic programming. In _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_ 3905 LNCS, p. 331-340. [[doi](http://dx.doi.org/10.1007/11729976_30)][[bibtex](../database.bib#L3646)]
+* Kupferschmid, S. and Hoffmann, J. and Dierks, H. and Behrmann, G. (2006). Adapting an AI planning heuristic for directed model checking. In _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_ 3925 LNCS, p. 35-52. [[doi](http://dx.doi.org/10.1007/11691617_3)][[bibtex](../database.bib#L3790)]
+* Lardeux, Frédéric and Saubion, Frédéric and Hao, Jin-Kao (2006). GASAT: A Genetic Local Search Algorithm for the Satisfiability Problem. In _Evolutionary Computation_ 14(2), p. 223-253. [[doi](http://dx.doi.org/10.1162/evco.2006.14.2.223)][[bibtex](../database.bib#L3811)]
+* Miquélez, Teresa and Bengoetxea, Endika and Larrañaga, Pedro (2006). Bayesian Classifiers in Optimization: An EDA-like Approach. In _Towards a New Evolutionary Computation: Advances in the Estimation of Distribution Algorithms_. Springer Berlin Heidelberg p. 221--242. [[doi](http://dx.doi.org/10.1007/3-540-32494-1_9)][[bibtex](../database.bib#L4055)]
+* Nakano, T. and Nagamatu, M. (2006). A continuous valued neural network with a new evaluation function of degree of unsatisfaction for solving CSP. In _IEICE Transactions on Information and Systems_ E89-D(4), p. 1555-1562. [[doi](http://dx.doi.org/10.1093/ietisy/e89-d.4.1555)][[bibtex](../database.bib#L4140)]
+* Zhongwen, L. and Hongzhi, L. (2006). Cellular genetic algorithms and local search for 3-SAT problem on graphic hardware. In _Unknown booktitle_. p. 2988-2992. [[bibtex](../database.bib#L4794)]
+
+## 2005
+
+* Alba, Enrique and Alfonso, Hugo and Dorronsoro, Bernabé (2005). Advanced Models of Cellular Genetic Algorithms Evaluated on SAT. In _Proceedings of the 7th Annual Conference on Genetic and Evolutionary Computation_, GECCO '05, p. 1123–1130. Association for Computing Machinery. [[doi](http://dx.doi.org/10.1145/1068009.1068197)][[bibtex](../database.bib#L2094)]
+* Zhang, Kairong and Nagamatu, Masahiro (2005). Parallel execution of neural networks with mixed biases for solving satisfiability problem. In _INTERNATIONAL JOURNAL OF INNOVATIVE COMPUTING INFORMATION AND CONTROL_ 1(4), p. 643-657. [[bibtex](../database.bib#L4734)]
+* Zhang, K. and Nagamatu, M. (2005). Solving satisfiability problem by parallel execution of neural networks with biases. In _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_ 3697 LNCS, p. 969-974. [[bibtex](../database.bib#L4745)]
+
+## 2004
+
+* Acras, Ricardo Nastas and Vergilio, Silvia Regina (2004). Splinter: A Generic Framework for Evolving Modular Finite State Machines. In _Advances in Artificial Intelligence -- SBIA 2004_, p. 356--365. Springer Berlin Heidelberg. [[bibtex](../database.bib#L2052)]
+* Boughaci, D. and Drias, H. and Benhamou, B. (2004). Solving MAX-SAT problems using a memetic evolutionary meta-heuristic. In _IEEE Conference on Cybernetics and Intelligent Systems, 2004._ 1, p. 480-484 vol.1. [[doi](http://dx.doi.org/10.1109/ICCIS.2004.1460462)][[bibtex](../database.bib#L2377)]
+* Duncan, Hazel and Bundy, Alan and Levine, John and Storkey, Amos and Pollet, Martin (2004). The use of data-mining for the automatic formation of tactics. In _Unknown booktitle_.. [[bibtex](../database.bib#L2728)]
+* Fukunaga, Alex S. (2004). Evolving Local Search Heuristics for SAT Using Genetic Programming. In _Genetic and Evolutionary Computation -- GECCO 2004_, p. 483--494. Springer Berlin Heidelberg. [[bibtex](../database.bib#L2966)]
+* Godefroid, Patrice and Khurshid, Sarfraz (2004). Exploring very large state spaces using genetic algorithms. In _International Journal on Software Tools for Technology Transfer_ 6, p. 117--127. [[bibtex](../database.bib#L3036)]
+* Eugene Nudelman and Kevin Leyton-Brown and Holger H. Hoos and Alex Devkar and Yoav Shoham (2004). Understanding Random SAT: Beyond the Clauses-to-Variables Ratio. In _Principles and Practice of Constraint Programming – CP 2004_. Springer Berlin Heidelberg p. 438--452. [[doi](http://dx.doi.org/10.1007/978-3-540-30201-8_33)][[bibtex](../database.bib#L4194)]
+* Ognjanović, Z. and Midić, U. and Kratica, J. (2004). A genetic algorithm for probabilistic SAT problem. In _Artificial Intelligence and Soft Computing - ICAISC 2004_, Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science) 3070, p. 462-467. [[doi](http://dx.doi.org/10.1007/978-3-540-24844-6_68)][[bibtex](../database.bib#L4205)]
+* Sen, K. and Viswanathan, M. and Agha, G. (2004). Learning continuous time Markov chains from sample executions. In _First International Conference on the Quantitative Evaluation of Systems, 2004. QEST 2004. Proceedings._, p. 146-155. [[doi](http://dx.doi.org/10.1109/QEST.2004.1348029)][[bibtex](../database.bib#L4406)]
+* Kairong Zhang and M. Nagamatu (2004). Solving SAT by parallel execution of neural networks with probabilistic attenuation coefficient generator. In _30th Annual Conference of IEEE Industrial Electronics Society, 2004. IECON 2004_. IEEE. [[doi](http://dx.doi.org/10.1109/iecon.2004.1432132)][[bibtex](../database.bib#L4724)]
+* Jianzhou Zhao and Jinian Bian and Weimin Wu (2004). PFGASAT - a genetic SAT solver combining partitioning and fuzzy strategies. In _Proceedings of the 28th Annual International Computer Software and Applications Conference, 2004. COMPSAC 2004._, p. 108-113 vol.1. [[doi](http://dx.doi.org/10.1109/CMPSAC.2004.1342813)][[bibtex](../database.bib#L4775)]
+
+## 2003
+
+* Borgulya, István (2003). An evolutionary framework for 3-SAT problems. In _Journal of computing and information technology_ 11(3), p. 185--191. [[bibtex](../database.bib#L2355)]
+* Cobleigh, Jamieson M. and Giannakopoulou, Dimitra and PĂsĂreanu, Corina S. (2003). Learning Assumptions for Compositional Verification. In _Tools and Algorithms for the Construction and Analysis of Systems_, p. 331--346. Springer Berlin Heidelberg. [[bibtex](../database.bib#L2633)]
+* Hao, Jin-Kao and Lardeux, Frédéric and Saubion, Frédéric (2003). Evolutionary Computing for the Satisfiability Problem. In _Applications of Evolutionary Computing_, p. 258--267. Springer Berlin Heidelberg. [[bibtex](../database.bib#L3230)]
+* Jamnik, Mateja and Kerber, Manfred and Pollet, Martin and Benzmüller, Christoph (2003). Automatic Learning of Proof Methods in Proof Planning. In _Logic Journal of the IGPL_ 11(6), p. 647-673. [[doi](http://dx.doi.org/10.1093/jigpal/11.6.647)][[bibtex](../database.bib#L3368)]
+* Rodriguez-Tello, E. and Torres-Jimenez, J. (2003). SAT solving using an epistasis reducer algorithm plus a GA. In _Proceedings Fifth International Conference on Computational Intelligence and Multimedia Applications. ICCIMA 2003_, p. 188-193. [[doi](http://dx.doi.org/10.1109/ICCIMA.2003.1238123)][[bibtex](../database.bib#L4347)]
+
+## 2002
+
+* Clarke, E. and Gupta, A. and Kukula, J. and Strichman, O. (2002). Sat based abstraction-refinement using ILP and machine learning techniques. In _Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)_ 2404, p. 265-279. [[doi](http://dx.doi.org/10.1007/3-540-45657-0_20)][[bibtex](../database.bib#L2622)]
+* Godefroid, Patrice and Khurshid, Sarfraz (2002). Exploring Very Large State Spaces Using Genetic Algorithms. In _Tools and Algorithms for the Construction and Analysis of Systems_, p. 266--280. Springer Berlin Heidelberg. [[bibtex](../database.bib#L3026)]
+* Gottlieb, Jens and Marchiori, Elena and Rossi, Claudio (2002). Evolutionary Algorithms for the Satisfiability Problem. In _Evolutionary Computation_ 10(1), p. 35-50. [[doi](http://dx.doi.org/10.1162/106365602317301763)][[bibtex](../database.bib#L3095)]
+* M. Nagamatu and T. Nakano and N. Hamada and T. Kido and T. Akahoshi (2002). Extensions of Lagrange programming neural network for satisfiability problem and its several variations. In _Proceedings of the 9th International Conference on Neural Information Processing, 2002. ICONIP ′02._. Nanyang Technol. Univ. [[doi](http://dx.doi.org/10.1109/iconip.2002.1198980)][[bibtex](../database.bib#L4130)]
+* Pedrycz, W. and Succi, G. and Shai, O. (2002). Genetic-fuzzy approach to the Boolean satisfiability problem. In _IEEE Transactions on Evolutionary Computation_ 6(5), p. 519-525. [[doi](http://dx.doi.org/10.1109/TEVC.2002.804915)][[bibtex](../database.bib#L4240)]
+
+## 2001
+
+* Faye, Pierre and Cerny, Eduard (2001). Improved Design Verification by Random Simulation Guided by Genetic Algorithms. In _System-on-Chip Methodologies & Design Languages_. Springer US p. 81--95. [[doi](http://dx.doi.org/10.1007/978-1-4757-3281-8_8)][[bibtex](../database.bib#L2831)]
+* Folino, G. and Pizzuti, C. and Spezzano, G. (2001). Parallel hybrid method for SAT that couples genetic algorithms and local search. In _IEEE Transactions on Evolutionary Computation_ 5(4), p. 323-334. [[doi](http://dx.doi.org/10.1109/4235.942527)][[bibtex](../database.bib#L2893)]
+* Lagoudakis, Michail G and Littman, Michael L (2001). Learning to select branching rules in the DPLL procedure for satisfiability. In _Electronic Notes in Discrete Mathematics_ 9, p. 344--359. [[bibtex](../database.bib#L3801)]
+* Donald J. Patterson and Henry Kautz (2001). Auto-Walksat: A Self-Tuning Implementation of Walksat. In _Electronic Notes in Discrete Mathematics_ 9, p. 360-368. [[doi](http://dx.doi.org/10.1016/S1571-0653(04)00333-6)][[bibtex](../database.bib#L4229)]
+* Schulz, Stephan (2001). Learning Search Control Knowledge for Equational Theorem Proving. In _KI 2001: Advances in Artificial Intelligence_, p. 320--334. Springer Berlin Heidelberg. [[bibtex](../database.bib#L4385)]
+
+## 2000
+
+* Gottlieb, Jens and Voss, Nico (2000). Adaptive Fitness Functions for the Satisfiability Problem. In _Parallel Problem Solving from Nature PPSN VI_, p. 621--630. Springer Berlin Heidelberg. [[bibtex](../database.bib#L3085)]
+* Rossi, Claudio and Marchiori, Elena and Kok, Joost N (2000). An adaptive evolutionary algorithm for the satisfiability problem. In _Proceedings of the 2000 ACM symposium on Applied computing-Volume 1_, p. 463--469. [[bibtex](../database.bib#L4357)]
+* Stenz, Gernot and Wolf, Andreas (2000). E-SETHEO: An Automated3 Theorem Prover. In _Automated Reasoning with Analytic Tableaux and Related Methods_, p. 436--440. Springer Berlin Heidelberg. [[bibtex](../database.bib#L4458)]
+
+## 1999
+
+* Buccafurri, F. and Eiter, T. and Gottlob, G. and Leone, N. (1999). Enhancing model checking in verification by AI techniques. In _Artificial Intelligence_ 112(1), p. 57-104. [[doi](http://dx.doi.org/10.1016/S0004-3702(99)00039-9)][[bibtex](../database.bib#L2503)]
+* Marchiori, Elena and Rossi, Claudio (1999). A Flipping Genetic Algorithm for Hard 3-SAT Problems. In _Proceedings of the 1st Annual Conference on Genetic and Evolutionary Computation - Volume 1_, GECCO'99, p. 393–400. Morgan Kaufmann Publishers Inc.. [[bibtex](../database.bib#L4014)]
+
+## 1998
+
+* Bäck, Thomas and Eiben, Agoston E. and Vink, Marco E. (1998). A superior evolutionary algorithm for 3-SAT. In _Evolutionary Programming VII_, p. 123--136. Springer Berlin Heidelberg. [[bibtex](../database.bib#L2228)]
+* Folino, Gianluigi and Pizzuti, Clani and Spezzano, Giandomemco (1998). Combining cellular genetic algorithms and local search for solving satisfiability problems. In _Unknown proceedings_, Proceedings of the International Conference on Tools with Artificial Intelligence, p. 192-198. [[bibtex](../database.bib#L2873)]
+* Folino, G. and Pizzuti, C. and Spezzano, G. (1998). Solving the satisfiability problem by a parallel cellular genetic algorithm. In _Proceedings. 24th EUROMICRO Conference (Cat. No.98EX204)_ 2, p. 715-722 vol.2. [[doi](http://dx.doi.org/10.1109/EURMIC.1998.708093)][[bibtex](../database.bib#L2882)]
+* Fuchs, Matthias (1998). A feature-based learning method for theorem proving. In _AAAI/IAAI_, p. 457--462. [[bibtex](../database.bib#L2946)]
+* Fuchs, Marc and Fuchs, Matthias (1998). Feature-based learning of search-guiding heuristics for theorem proving. In _AI Communications_ 11(3-4), p. 175--189. [[bibtex](../database.bib#L2955)]
+* Gottlieb, Jens and Voss, Nico (1998). Improving the performance of evolutionary algorithms for the satisfiability problem by refining functions. In _Parallel Problem Solving from Nature --- PPSN V_, p. 755--764. Springer Berlin Heidelberg. [[bibtex](../database.bib#L3065)]
+* Gottlieb, Jens and Voss, Nico (1998). Representations, fitness functions and genetic operators for the satisfiability problem. In _Artificial Evolution_, p. 53--68. Springer Berlin Heidelberg. [[bibtex](../database.bib#L3075)]
+* Rana, Soraya B. and Whitley, L. Darrell (1998). Genetic Algorithm Behavior in the MAXSAT Domain. In _Proceedings of the 5th International Conference on Parallel Problem Solving from Nature_, PPSN V, p. 785–794. Springer-Verlag. [[bibtex](../database.bib#L4315)]
+
+## 1997
+
+* Jörg Denzinger and Martin Kronenburg and Stephan Schulz (1997). DISCOUNT - A Distributed and Learning Equational Prover. In _Journal of Automated Reasoning_ 18(2), p. 189--198. [[doi](http://dx.doi.org/10.1023/a:1005879229581)][[bibtex](../database.bib#L2684)]
+* Denzinger, Jorg and Fuchs, Marc and Fuchs, Matthias (1997). High Performance ATP Systems by Combining Several AI Methods. In _Proceedings of the 15th International Joint Conference on Artifical Intelligence - Volume 1_, IJCAI'97, p. 102–107. Morgan Kaufmann Publishers Inc.. [[bibtex](../database.bib#L2696)]
+* Eiben, A and Van Der Hauw, Jan (1997). Solving 3-SAT by GAs adapting constraint weights. In _Proceedings of 1997 IEEE International Conference on Evolutionary Computation (ICEC '97)_, p. 81--86. IEEE. [[doi](http://dx.doi.org/10.1109/icec.1997.592273)][[bibtex](../database.bib#L2745)]
+* Frank, Jeremy (1997). Learning short-term weights for GSAT. In _IJCAI (1)_, p. 384--391. [[bibtex](../database.bib#L2915)]
+* Fuchs, Matthias (1997). Flexible re-enactment of proofs. In _Progress in Artificial Intelligence_, p. 13--24. Springer Berlin Heidelberg. [[bibtex](../database.bib#L2936)]
+
+## 1996
+
+* Alba, Enrique and Troya, José M. (1996). Genetic algorithms for protocol validation. In _Parallel Problem Solving from Nature --- PPSN IV_, p. 869--879. Springer Berlin Heidelberg. [[bibtex](../database.bib#L2084)]
+
+## 1995
+
+* Hao, Jin-Kao (1995). A Clausal Genetic Representation and its Evolutionary Procedures for Satisfiability Problems. In _Artificial Neural Nets and Genetic Algorithms_, p. 289--292. Springer Vienna. [[bibtex](../database.bib#L3220)]
+
+## 1993
+
+* A. d'Anjou and M. Grana and F.J. Torrealdea and M.C. Hernandez (1993). Solving satisfiability via Boltzmann machines. In _IEEE Transactions on Pattern Analysis and Machine Intelligence_ 15(5), p. 514--521. [[doi](http://dx.doi.org/10.1109/34.211473)][[bibtex](../database.bib#L2653)]
+
+## 1990
+
+* Sun, K.T. and Fu, H.C. (1990). Solving satisfiability problems with neural networks. In _IEEE TENCON'90: 1990 IEEE Region 10 Conference on Computer and Communication Systems. Conference Proceedings_, p. 17-22 vol.1. [[doi](http://dx.doi.org/10.1109/TENCON.1990.152557)][[bibtex](../database.bib#L4479)]
+* Christian Suttner and Wolfgang Ertel (1990). Automatic acquisition of search guiding heuristics. In _10th International Conference on Automated Deduction_. Springer Berlin Heidelberg p. 470--484. [[doi](http://dx.doi.org/10.1007/3-540-52885-7_108)][[bibtex](../database.bib#L4489)]
+
+## 1989
+
+* James L. Johnson (1989). A neural network approach to the 3-satisfiability problem. In _Journal of Parallel and Distributed Computing_ 6(2), p. 435-449. [[doi](http://dx.doi.org/10.1016/0743-7315(89)90068-3)][[bibtex](../database.bib#L3411)]
+
+## 1972
+
+* Biermann, A. W. and Feldman, J. A. (1972). On the Synthesis of Finite-State Machines from Samples of Their Behavior. In _IEEE Transactions on Computers_ C-21(6), p. 592-597. [[doi](http://dx.doi.org/10.1109/TC.1972.5009015)][[bibtex](../database.bib#L2288)]
 
