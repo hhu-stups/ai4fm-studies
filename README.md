@@ -64,7 +64,7 @@ are available
 in the dev-only repository of the article.
 
 ```sh
-python preprocess_jabref_bibfile.py search_results.bib not_in_time_frame.bib > database.bib
+python -m dev search_results.bib not_in_time_frame.bib > database.bib
 ```
 
 To update the overview files,

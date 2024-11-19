@@ -5,8 +5,8 @@ import bibtexparser
 import os
 from typing import TextIO
 
-from markdown import entry_to_markdown
-import names
+from dev.markdown import entry_to_markdown
+import dev.names as names
 
 
 def make_overview(document_structure: dict, grouped_entries: dict,

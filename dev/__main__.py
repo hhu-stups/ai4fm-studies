@@ -4,9 +4,11 @@ The preprocessing will remove all irrelevant fields from the bibtex entries
 and clean up the groups.
 Thus, the resulting bibtex file will be more readable and consistent.
 """
+from importlib import resources
 import io
-import bibtexparser
 import sys
+
+import bibtexparser
 
 
 def preprocess(bibfile_paths: list[str]):
@@ -115,7 +117,8 @@ def _get_group_cleanup_helper_dict():
     parent_group_map = {}
     group_stack = []
 
-    with open('groups.csv') as groups_file:
+    groups_csv = resources.files('dev').joinpath('groups.csv')
+    with groups_csv.open('r') as groups_file:
         # Skip header line
         groups_file.readline()
         for info_line in groups_file:
@@ -139,7 +142,7 @@ _clean_up_groups.parent_group_map = _get_group_cleanup_helper_dict()
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
-        print("Usage: python preprocess_jabref_bibfile.py <bibfile_1> <bibfile_2> ...")
+        print("Usage: python -m dev <bibfile_1> <bibfile_2> ...")
         sys.exit(1)
 
     source_files = sys.argv[1:]
